@@ -1,0 +1,6726 @@
+[
+{
+    "model": "club.categoria",
+    "pk": 1,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Want defense million too meeting loss. Result form night fact there stock focus. The too affect.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 2,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Live audience answer well purpose long whatever. Probably much century view us fine. Choose listen budget analysis visit street staff.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 3,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Drug thing national specific huge friend describe. Green be practice six trip lead.\nHundred style be including reason find age. Operation perhaps forward economy place.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 4,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Girl student environmental remember example experience. Despite feel state toward nor.\nEasy difference true. Spend fine person alone.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 5,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Political will investment hotel. Focus ask country purpose against talk.\nRecognize how watch easy heart else. Whatever response threat.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 6,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Often baby computer bill four hit big effect. Want animal use various stock.\nDiscussion attack fish improve. Other glass top type drop this.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 7,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Reality actually fall hot road drop civil. Scientist thus safe order box.\nBetter action prevent. Law player which memory. Story group watch exactly.\nInstead most loss population tonight.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 8,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Black east draw well single. Third evidence store information voice its move. Boy might tell executive.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 9,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Stop major edge inside available appear. Truth many else around father sort. Choice standard lawyer above even.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 10,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Agreement else character several after. Cultural total accept.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 11,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Recently staff left stay interesting. Hear organization gas rich Mr will. Girl body cultural available tend.\nFar total believe media free free likely. Tonight best on technology work.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 12,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Amount return evidence tend ground. Hour always want.\nFormer story result reflect.\nLanguage woman financial husband security. Discussion attack direction radio cut list need break.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 13,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Agency place against song. Door father star least door interest late. Grow trade really population sometimes base budget. Data strategy memory put.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 14,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Once threat present they avoid speech society. At his teacher. Tend later finally north pick allow say.\nHair eight task effort sound.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 15,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Face truth state should glass people member. Threat current as leader meet every. Determine political performance company million require hit onto.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 16,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Author dog pretty agreement site country. Bar house attorney me soldier. Art your control loss effort fly.\nHigh themselves serious poor. Teach arrive trip if. Green entire direction age.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 17,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Sense will foot public. Offer term yourself million run style appear. Wrong relate ahead result especially draw gun.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 18,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Focus interest across wrong understand cold teacher. Attack and bring fine must group.\nReady will affect ok experience both sound. Since low body so open. More that international receive.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 19,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "State political power amount dog. Movie music remember professional.\nCompare against arm mean. Without break writer exist style easy piece. Property begin how position best.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 20,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Coach history world ahead teacher simple. Police high situation rate my. Left strategy while both sense voice people.\nCall generation measure data team director red. East trouble fire.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 21,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "More general try own. Development growth service road.\nMagazine performance relationship news. Ok which tough move sport will. Wish Republican season north feeling.\nComputer particularly yes another.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 22,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Above weight check try season organization.\nRoad rather during peace newspaper own statement. Brother current deep care operation. Heavy knowledge young.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 23,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "There none always trial. Response month option community trip again imagine expert.\nMagazine own fact mean treat. At detail value skill. Religious knowledge price together.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 24,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "System simply give card morning. Blue yard drug sell former ground defense.\nCountry her down office. Wind step happen everybody hot. Then own wide for prove institution cell.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 25,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Price plan who at she account there.\nParty somebody heart first collection. Choose similar decide leader couple sense.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 26,
+    "fields": {
+        "tipos": "JU",
+        "descripcion": "Provide day better three between in.\nParticular whom response lead no before family me.\nSize arrive every near without. Race support wide enter material. Various field community must success event.",
+        "edad_min": 9,
+        "edad_max": 15
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 27,
+    "fields": {
+        "tipos": "JU",
+        "descripcion": "Side standard institution media want pass stand. Whom purpose opportunity mind.\nBaby quality organization green.\nThemselves carry different image. Morning seem which with.",
+        "edad_min": 8,
+        "edad_max": 17
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 28,
+    "fields": {
+        "tipos": "PRE",
+        "descripcion": "Art answer maintain must. Indeed around exactly. Hope trial age usually available series among. Another medical might entire short.",
+        "edad_min": 10,
+        "edad_max": 15
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 29,
+    "fields": {
+        "tipos": "JU",
+        "descripcion": "Save far detail memory expert. Ball too try throw even. Range country bank least several. Environmental data office marriage available.\nOccur common to event treat development even control.",
+        "edad_min": 10,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 30,
+    "fields": {
+        "tipos": "JU",
+        "descripcion": "Radio form skill simply history air. Goal world little reveal.\nPrice serve seat involve college material better type. Action knowledge baby compare. Price save Congress.",
+        "edad_min": 12,
+        "edad_max": 17
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 31,
+    "fields": {
+        "tipos": "JU",
+        "descripcion": "Small some American individual. Economy much policy school difference one feeling. Figure take enough official maybe early.\nMedical program respond foreign effect size long.",
+        "edad_min": 11,
+        "edad_max": 15
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 32,
+    "fields": {
+        "tipos": "PRE",
+        "descripcion": "Ok on my floor picture eight myself. Late write yard dinner.\nOther reveal expert build challenge. Night debate too trip. Time modern serve fire play protect red share.",
+        "edad_min": 11,
+        "edad_max": 16
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 33,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Play scientist camera. Woman particularly official grow event. Center form describe sign attorney.\nSong responsibility adult help investment along compare. Pass hair so anything.",
+        "edad_min": 12,
+        "edad_max": 16
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 34,
+    "fields": {
+        "tipos": "CA",
+        "descripcion": "Name technology present. Center cup Mrs however speak.\nWorry his eye nor reflect despite leader remain. Cause push education budget wonder happen age. Become often blood hope language husband item.",
+        "edad_min": 11,
+        "edad_max": 17
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 35,
+    "fields": {
+        "tipos": "IN",
+        "descripcion": "To much security suffer it peace. Wait arrive measure white.\nEnter section offer need. Low spring defense past executive economy.",
+        "edad_min": 11,
+        "edad_max": 16
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 36,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Company owner year ground team goal theory bar. Perhaps security seem standard let. Unit surface trip rule pattern.\nFine now sometimes list church. Such democratic resource. Woman my south.",
+        "edad_min": 7,
+        "edad_max": 16
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 37,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Attorney my behind since. Parent more trial production.\nBack product hundred no argue night adult. Each they think far how.",
+        "edad_min": 9,
+        "edad_max": 16
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 38,
+    "fields": {
+        "tipos": "IN",
+        "descripcion": "Man treatment move still manager reduce. Film people make change recently trouble guy. Actually agent forward door hear.",
+        "edad_min": 10,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 39,
+    "fields": {
+        "tipos": "IN",
+        "descripcion": "Rather decide window cell evening suggest image. Plan throughout statement occur ask group task. Recent technology amount truth against their break.",
+        "edad_min": 12,
+        "edad_max": 15
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 40,
+    "fields": {
+        "tipos": "PRE",
+        "descripcion": "Fill recently sign piece. Only stand pattern. Sell talk own long.\nBeautiful fight school home choose. Safe develop grow charge throughout.",
+        "edad_min": 9,
+        "edad_max": 17
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 41,
+    "fields": {
+        "tipos": "BEM",
+        "descripcion": "Husband agency better gun speech color. Politics across model. Along others almost born.\nPerformance effort expect never. Daughter his level reveal ten traditional.",
+        "edad_min": 11,
+        "edad_max": 16
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 42,
+    "fields": {
+        "tipos": "BEM",
+        "descripcion": "They partner myself economy watch security. World if onto. Body control their better various worry someone.",
+        "edad_min": 8,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 43,
+    "fields": {
+        "tipos": "CA",
+        "descripcion": "Today fill second industry case open. Ask side appear election read away financial. Throughout product which drop during coach.\nThus picture man page. Our beautiful factor point.",
+        "edad_min": 12,
+        "edad_max": 15
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 44,
+    "fields": {
+        "tipos": "BEM",
+        "descripcion": "Knowledge big appear.\nExecutive large box significant all sense. Good later support marriage religious.\nOn memory indeed discuss feeling teacher. My style fund behind similar.",
+        "edad_min": 7,
+        "edad_max": 17
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 45,
+    "fields": {
+        "tipos": "CA",
+        "descripcion": "Security piece during there example. Media prove the break will. Practice bill herself ten.\nLeave everything drive. But set national exactly push.",
+        "edad_min": 7,
+        "edad_max": 15
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 46,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Effect him maintain practice. Democratic lawyer environment outside.\nDiscussion we job wrong dinner its.\nRespond charge the environment car.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 47,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Bank difference brother simply with force yet. Group close station but collection. Adult allow defense.\nWant oil reality form show. Professional provide state specific star information for.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 48,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Attention perform federal big activity art owner. Page environmental stage charge wonder eight including. Phone how event personal.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 49,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Brother often ago cup thought. Front water high young remember tax.\nLet interesting kitchen treatment beyond hold. Thus community pull actually same would case prove.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 50,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Themselves deal cost international can place. Certain nation box alone perhaps. Force worker shoulder cold.\nTheory item make market. Toward build he work economy.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 51,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Statement financial without seat. Still expect prepare notice cultural explain identify.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 52,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Eight senior central according ahead. Try rule leader.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 53,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Talk part worker real federal able answer. Hour church old report as. Success country development people season own base risk. Best test song.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 54,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Traditional at bring help at. Front this develop two painting fire expect.\nPrice try seem tree key Mrs paper. Do hot film leader improve. History quickly everybody energy window.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.categoria",
+    "pk": 55,
+    "fields": {
+        "tipos": "AL",
+        "descripcion": "Such green expect bad those. Power house executive technology strong.\nDesign base table moment. Wall often weight weight theory.\nHimself site boy. Develop head accept often.",
+        "edad_min": 6,
+        "edad_max": 18
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 1,
+    "fields": {
+        "nombre": "Force finish early than movie. Five long stage these. Your arrive money tree.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 7
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 2,
+    "fields": {
+        "nombre": "Out price per response effort. Side share thought. Ability itself total over piece.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 12
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 3,
+    "fields": {
+        "nombre": "Hold oil gas short. Follow skin major business one. Not increase traditional worker writer.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 8
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 4,
+    "fields": {
+        "nombre": "Call page financial goal if other. Appear rest blue perhaps gas attorney.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 10
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 5,
+    "fields": {
+        "nombre": "Example bed traditional save either easy be product.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 11
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 6,
+    "fields": {
+        "nombre": "Here get also. Cause shake call lawyer away special.\nAlthough after since during.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 14
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 7,
+    "fields": {
+        "nombre": "Else eight record fund pattern debate growth important. Throw benefit listen home understand.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 9
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 8,
+    "fields": {
+        "nombre": "During guess interesting there. Stand key home these understand seem.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 15
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 9,
+    "fields": {
+        "nombre": "Read TV energy because firm forward until. Real product wind final wish country science.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 6
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 10,
+    "fields": {
+        "nombre": "Idea a state term business. Use score yard.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 5
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 11,
+    "fields": {
+        "nombre": "Father create instead lay article by.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 2
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 12,
+    "fields": {
+        "nombre": "Class whether quality special college. Back threat impact radio people from.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 3
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 13,
+    "fields": {
+        "nombre": "Support doctor charge whether ten view.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 4
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 14,
+    "fields": {
+        "nombre": "Fear force kitchen less above. Policy gun partner alone.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 1
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 15,
+    "fields": {
+        "nombre": "Standard through car civil share behind.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 13
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 16,
+    "fields": {
+        "nombre": "Sort science subject themselves. Series foot weight together light level.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 17
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 17,
+    "fields": {
+        "nombre": "The its treat size what knowledge yet.\nBall least wife activity well.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 20
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 18,
+    "fields": {
+        "nombre": "Her matter according truth door. Southern if his down early.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 21
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 19,
+    "fields": {
+        "nombre": "More heavy too sort him three. Assume account process least.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 16
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 20,
+    "fields": {
+        "nombre": "Thought them court fear gun arm care. Commercial in level over network early special.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 23
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 21,
+    "fields": {
+        "nombre": "Stand section store. Media happy staff cup particularly despite choice floor.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 25
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 22,
+    "fields": {
+        "nombre": "Success life join work party then. Shoulder week open soon which war. What early long friend.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 19
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 23,
+    "fields": {
+        "nombre": "Effort each information everyone.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 24
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 24,
+    "fields": {
+        "nombre": "Lawyer business old make senior address choice. Loss wonder ask.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 22
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 25,
+    "fields": {
+        "nombre": "World young physical sometimes listen. Dinner think especially appear real bad.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 18
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 26,
+    "fields": {
+        "nombre": "Virginia Rodriguez",
+        "salario": 845.5038541776305,
+        "fecha_contratacion": "2023-04-12",
+        "activo": false,
+        "categoria": 26
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 27,
+    "fields": {
+        "nombre": "Sheryl Johnson",
+        "salario": 467.89588756262043,
+        "fecha_contratacion": "2025-03-29",
+        "activo": false,
+        "categoria": 27
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 28,
+    "fields": {
+        "nombre": "Donald Sanders",
+        "salario": 418.6112563931884,
+        "fecha_contratacion": "2023-02-21",
+        "activo": false,
+        "categoria": 28
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 29,
+    "fields": {
+        "nombre": "Patricia Parker",
+        "salario": 423.78695534864335,
+        "fecha_contratacion": "2024-11-13",
+        "activo": false,
+        "categoria": 29
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 30,
+    "fields": {
+        "nombre": "Paul Glover",
+        "salario": 931.1447022107003,
+        "fecha_contratacion": "2023-02-10",
+        "activo": true,
+        "categoria": 30
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 31,
+    "fields": {
+        "nombre": "Sabrina Richmond",
+        "salario": 420.65821726763903,
+        "fecha_contratacion": "2023-05-10",
+        "activo": false,
+        "categoria": 31
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 32,
+    "fields": {
+        "nombre": "Raven Gonzalez",
+        "salario": 513.3522434032865,
+        "fecha_contratacion": "2023-05-28",
+        "activo": false,
+        "categoria": 32
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 33,
+    "fields": {
+        "nombre": "James Andrews",
+        "salario": 482.49695615335975,
+        "fecha_contratacion": "2024-02-03",
+        "activo": false,
+        "categoria": 33
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 34,
+    "fields": {
+        "nombre": "Angel Wells",
+        "salario": 724.3214927661043,
+        "fecha_contratacion": "2025-04-30",
+        "activo": false,
+        "categoria": 34
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 35,
+    "fields": {
+        "nombre": "Keith Huang",
+        "salario": 525.6468682417512,
+        "fecha_contratacion": "2024-04-03",
+        "activo": false,
+        "categoria": 35
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 36,
+    "fields": {
+        "nombre": "Drew Nelson",
+        "salario": 724.103733664321,
+        "fecha_contratacion": "2023-08-22",
+        "activo": true,
+        "categoria": 36
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 37,
+    "fields": {
+        "nombre": "Robert Clark",
+        "salario": 465.47818864989193,
+        "fecha_contratacion": "2023-03-29",
+        "activo": true,
+        "categoria": 37
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 38,
+    "fields": {
+        "nombre": "Dr. Robert Tran",
+        "salario": 953.5147384658549,
+        "fecha_contratacion": "2025-04-05",
+        "activo": true,
+        "categoria": 38
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 39,
+    "fields": {
+        "nombre": "Chase Diaz",
+        "salario": 1103.2881874211537,
+        "fecha_contratacion": "2023-03-17",
+        "activo": false,
+        "categoria": 39
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 40,
+    "fields": {
+        "nombre": "Lori Baxter",
+        "salario": 1111.0513005650037,
+        "fecha_contratacion": "2023-10-08",
+        "activo": true,
+        "categoria": 40
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 41,
+    "fields": {
+        "nombre": "Zachary Spence",
+        "salario": 968.3505461056358,
+        "fecha_contratacion": "2025-05-07",
+        "activo": false,
+        "categoria": 41
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 42,
+    "fields": {
+        "nombre": "Katherine Moore",
+        "salario": 434.5973262594895,
+        "fecha_contratacion": "2025-06-28",
+        "activo": true,
+        "categoria": 42
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 43,
+    "fields": {
+        "nombre": "Isabella Hardy",
+        "salario": 1002.3268719512314,
+        "fecha_contratacion": "2025-10-28",
+        "activo": false,
+        "categoria": 43
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 44,
+    "fields": {
+        "nombre": "Jeffrey Nelson",
+        "salario": 823.7753214467514,
+        "fecha_contratacion": "2025-06-03",
+        "activo": false,
+        "categoria": 44
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 45,
+    "fields": {
+        "nombre": "Alejandro Parker",
+        "salario": 1182.4414835518933,
+        "fecha_contratacion": "2025-07-26",
+        "activo": true,
+        "categoria": 45
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 46,
+    "fields": {
+        "nombre": "Long almost cut common two later. Black throw position focus Mrs open cost.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 48
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 47,
+    "fields": {
+        "nombre": "Medical home trouble threat much. Treatment real magazine attention clear budget hit.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 46
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 48,
+    "fields": {
+        "nombre": "Campaign camera beyond. Process measure even agent someone in. Up fact short person.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 55
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 49,
+    "fields": {
+        "nombre": "Member level tend guy training. Put option like time speech more. Pick top nation important answer.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 53
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 50,
+    "fields": {
+        "nombre": "Practice gas challenge rather thus despite opportunity.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 50
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 51,
+    "fields": {
+        "nombre": "East tax cell total right. Hotel treat state. Oil phone them Republican day social voice.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 49
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 52,
+    "fields": {
+        "nombre": "Such success find summer right land. Both popular at chair individual. Today very whom.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 52
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 53,
+    "fields": {
+        "nombre": "Health whose second. True film station including report. Where always mouth fill.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 51
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 54,
+    "fields": {
+        "nombre": "Cause billion kind small far medical day. Walk must use morning between far.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 54
+    }
+},
+{
+    "model": "club.entrenador",
+    "pk": 55,
+    "fields": {
+        "nombre": "Three house middle clear bank. Sport week author central forward government.",
+        "salario": 400.5,
+        "fecha_contratacion": "2025-11-19",
+        "activo": true,
+        "categoria": 47
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 1,
+    "fields": {
+        "nombre": "Left else subject similar sure put yet. Where theory determine American court.",
+        "dorsal": -16017,
+        "fecha_nacimiento": "2014-03-06",
+        "categoria": 7,
+        "entrenador": 12
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 2,
+    "fields": {
+        "nombre": "Left under help gas themselves idea thing event. Six tonight challenge common floor give.",
+        "dorsal": 18808,
+        "fecha_nacimiento": "2023-12-13",
+        "categoria": 8,
+        "entrenador": 13
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 3,
+    "fields": {
+        "nombre": "Similar response now help high agree.",
+        "dorsal": -1110,
+        "fecha_nacimiento": "1970-11-29",
+        "categoria": 7,
+        "entrenador": 13
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 4,
+    "fields": {
+        "nombre": "Financial truth list. Kind rule set. Group big line job sport rather. Save grow summer.",
+        "dorsal": -30632,
+        "fecha_nacimiento": "2002-04-10",
+        "categoria": 11,
+        "entrenador": 12
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 5,
+    "fields": {
+        "nombre": "Nor effect board design year. Edge service mouth whom decision focus rule.\nPlan nice natural.",
+        "dorsal": -23326,
+        "fecha_nacimiento": "1972-07-16",
+        "categoria": 12,
+        "entrenador": 6
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 6,
+    "fields": {
+        "nombre": "Begin no director information yeah court. Crime value spring its agreement.",
+        "dorsal": -30599,
+        "fecha_nacimiento": "2011-08-16",
+        "categoria": 13,
+        "entrenador": 5
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 7,
+    "fields": {
+        "nombre": "Card society about police. Generation everybody art water throughout. Look by staff will.",
+        "dorsal": -12681,
+        "fecha_nacimiento": "2005-05-23",
+        "categoria": 8,
+        "entrenador": 10
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 8,
+    "fields": {
+        "nombre": "Situation interview back civil few nice. Community soon at short low whatever.",
+        "dorsal": -30588,
+        "fecha_nacimiento": "1979-06-06",
+        "categoria": 12,
+        "entrenador": 15
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 9,
+    "fields": {
+        "nombre": "Ground name material particularly Mr music range. Add between apply hit.",
+        "dorsal": -22367,
+        "fecha_nacimiento": "1978-08-06",
+        "categoria": 9,
+        "entrenador": 6
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 10,
+    "fields": {
+        "nombre": "News million stop miss win green keep. North cover ten.",
+        "dorsal": 19613,
+        "fecha_nacimiento": "2005-03-22",
+        "categoria": 12,
+        "entrenador": 2
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 11,
+    "fields": {
+        "nombre": "Peace child score protect hospital need. Kitchen measure will anything point direction serious.",
+        "dorsal": -17449,
+        "fecha_nacimiento": "2004-06-08",
+        "categoria": 4,
+        "entrenador": 12
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 12,
+    "fields": {
+        "nombre": "Husband itself which significant end. Office least now blue relationship.",
+        "dorsal": 1789,
+        "fecha_nacimiento": "2023-06-30",
+        "categoria": 10,
+        "entrenador": 8
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 13,
+    "fields": {
+        "nombre": "Available southern reveal current about. Campaign method image imagine lead.",
+        "dorsal": -21975,
+        "fecha_nacimiento": "1982-11-24",
+        "categoria": 2,
+        "entrenador": 3
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 14,
+    "fields": {
+        "nombre": "Present company add where matter. To finally break manager painting high maybe.",
+        "dorsal": -17936,
+        "fecha_nacimiento": "2005-01-12",
+        "categoria": 13,
+        "entrenador": 2
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 15,
+    "fields": {
+        "nombre": "Woman wrong from account. Attack I people.",
+        "dorsal": -21236,
+        "fecha_nacimiento": "2015-09-08",
+        "categoria": 4,
+        "entrenador": 10
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 16,
+    "fields": {
+        "nombre": "Member model age around reflect true way. Table whose store allow value. Him force teach small you.",
+        "dorsal": -4674,
+        "fecha_nacimiento": "2022-06-02",
+        "categoria": 25,
+        "entrenador": 25
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 17,
+    "fields": {
+        "nombre": "Share discuss step various foot quality every.",
+        "dorsal": 13069,
+        "fecha_nacimiento": "2016-07-09",
+        "categoria": 19,
+        "entrenador": 20
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 18,
+    "fields": {
+        "nombre": "Too media production yes. Become team improve from agent. House account inside door sense.",
+        "dorsal": -1815,
+        "fecha_nacimiento": "1999-07-15",
+        "categoria": 19,
+        "entrenador": 21
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 19,
+    "fields": {
+        "nombre": "Teacher plan able owner play. Into rest effect work season.",
+        "dorsal": -6990,
+        "fecha_nacimiento": "2022-12-16",
+        "categoria": 20,
+        "entrenador": 21
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 20,
+    "fields": {
+        "nombre": "Peace enough concern Congress. We always all amount lead list. Image want meeting feeling reduce.",
+        "dorsal": -6331,
+        "fecha_nacimiento": "2011-10-14",
+        "categoria": 20,
+        "entrenador": 20
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 21,
+    "fields": {
+        "nombre": "Start only present three. Know movie little degree several machine middle.",
+        "dorsal": -2552,
+        "fecha_nacimiento": "2020-10-11",
+        "categoria": 18,
+        "entrenador": 24
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 22,
+    "fields": {
+        "nombre": "Station now media pattern. Street go decision power quickly analysis behind.",
+        "dorsal": 2161,
+        "fecha_nacimiento": "1989-05-22",
+        "categoria": 16,
+        "entrenador": 23
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 23,
+    "fields": {
+        "nombre": "Body another soldier recently. Memory son order ability check source.",
+        "dorsal": 14141,
+        "fecha_nacimiento": "2008-04-07",
+        "categoria": 24,
+        "entrenador": 20
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 24,
+    "fields": {
+        "nombre": "Computer budget check be agreement. Radio heavy close place. Group stage she.",
+        "dorsal": -25993,
+        "fecha_nacimiento": "1991-04-17",
+        "categoria": 20,
+        "entrenador": 23
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 25,
+    "fields": {
+        "nombre": "Election simple staff child. Answer along stand away worker.",
+        "dorsal": 11737,
+        "fecha_nacimiento": "2023-01-06",
+        "categoria": 19,
+        "entrenador": 21
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 26,
+    "fields": {
+        "nombre": "Tracy Valencia",
+        "dorsal": 71,
+        "fecha_nacimiento": "2012-08-15",
+        "categoria": 30,
+        "entrenador": 33
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 27,
+    "fields": {
+        "nombre": "Stephen Sanders",
+        "dorsal": 48,
+        "fecha_nacimiento": "2016-02-16",
+        "categoria": 31,
+        "entrenador": 28
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 28,
+    "fields": {
+        "nombre": "Jessica Watts",
+        "dorsal": 45,
+        "fecha_nacimiento": "2008-12-24",
+        "categoria": 29,
+        "entrenador": 29
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 29,
+    "fields": {
+        "nombre": "Cindy Simmons",
+        "dorsal": 51,
+        "fecha_nacimiento": "2011-01-18",
+        "categoria": 26,
+        "entrenador": 30
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 30,
+    "fields": {
+        "nombre": "Annette Murphy",
+        "dorsal": 93,
+        "fecha_nacimiento": "2009-05-02",
+        "categoria": 34,
+        "entrenador": 29
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 31,
+    "fields": {
+        "nombre": "Jamie Romero",
+        "dorsal": 93,
+        "fecha_nacimiento": "2014-12-31",
+        "categoria": 34,
+        "entrenador": 34
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 32,
+    "fields": {
+        "nombre": "Daniel Farmer",
+        "dorsal": 19,
+        "fecha_nacimiento": "2017-02-24",
+        "categoria": 32,
+        "entrenador": 27
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 33,
+    "fields": {
+        "nombre": "Taylor Johnson",
+        "dorsal": 43,
+        "fecha_nacimiento": "2018-05-24",
+        "categoria": 31,
+        "entrenador": 26
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 34,
+    "fields": {
+        "nombre": "Ethan Vasquez",
+        "dorsal": 27,
+        "fecha_nacimiento": "2010-05-30",
+        "categoria": 26,
+        "entrenador": 26
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 35,
+    "fields": {
+        "nombre": "Mark Munoz",
+        "dorsal": 10,
+        "fecha_nacimiento": "2018-12-17",
+        "categoria": 28,
+        "entrenador": 32
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 36,
+    "fields": {
+        "nombre": "Sarah Maddox",
+        "dorsal": 64,
+        "fecha_nacimiento": "2011-08-08",
+        "categoria": 39,
+        "entrenador": 43
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 37,
+    "fields": {
+        "nombre": "Curtis Cervantes",
+        "dorsal": 41,
+        "fecha_nacimiento": "2010-12-08",
+        "categoria": 44,
+        "entrenador": 44
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 38,
+    "fields": {
+        "nombre": "Terry Henderson",
+        "dorsal": 62,
+        "fecha_nacimiento": "2010-04-01",
+        "categoria": 40,
+        "entrenador": 43
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 39,
+    "fields": {
+        "nombre": "Joan Holmes",
+        "dorsal": 84,
+        "fecha_nacimiento": "2013-07-02",
+        "categoria": 43,
+        "entrenador": 44
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 40,
+    "fields": {
+        "nombre": "Michael Castro",
+        "dorsal": 51,
+        "fecha_nacimiento": "2010-07-25",
+        "categoria": 41,
+        "entrenador": 36
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 41,
+    "fields": {
+        "nombre": "Susan Burgess",
+        "dorsal": 90,
+        "fecha_nacimiento": "2014-02-01",
+        "categoria": 42,
+        "entrenador": 42
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 42,
+    "fields": {
+        "nombre": "Michael Brooks",
+        "dorsal": 87,
+        "fecha_nacimiento": "2018-05-20",
+        "categoria": 39,
+        "entrenador": 38
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 43,
+    "fields": {
+        "nombre": "Edward Harrison",
+        "dorsal": 38,
+        "fecha_nacimiento": "2011-06-09",
+        "categoria": 39,
+        "entrenador": 38
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 44,
+    "fields": {
+        "nombre": "Eric Gutierrez",
+        "dorsal": 53,
+        "fecha_nacimiento": "2011-10-04",
+        "categoria": 36,
+        "entrenador": 42
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 45,
+    "fields": {
+        "nombre": "Brenda Wheeler",
+        "dorsal": 34,
+        "fecha_nacimiento": "2009-12-20",
+        "categoria": 44,
+        "entrenador": 45
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 46,
+    "fields": {
+        "nombre": "Himself sell race. Matter cost Democrat cold perform.",
+        "dorsal": -11869,
+        "fecha_nacimiento": "2008-10-29",
+        "categoria": 47,
+        "entrenador": 52
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 47,
+    "fields": {
+        "nombre": "Surface ahead federal. Even tonight almost ready far.",
+        "dorsal": 6199,
+        "fecha_nacimiento": "2021-10-24",
+        "categoria": 49,
+        "entrenador": 51
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 48,
+    "fields": {
+        "nombre": "Huge you first score event major base. Try stop sure safe. Major help candidate probably coach.",
+        "dorsal": -26484,
+        "fecha_nacimiento": "1981-06-22",
+        "categoria": 49,
+        "entrenador": 49
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 49,
+    "fields": {
+        "nombre": "Street fall small feel. When board camera certainly.\nRemain thus economy hour itself player raise.",
+        "dorsal": 21680,
+        "fecha_nacimiento": "2017-02-23",
+        "categoria": 48,
+        "entrenador": 52
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 50,
+    "fields": {
+        "nombre": "Remain if discussion thus. Since our major rise strong turn same.",
+        "dorsal": -14438,
+        "fecha_nacimiento": "1991-03-18",
+        "categoria": 54,
+        "entrenador": 47
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 51,
+    "fields": {
+        "nombre": "Form great indeed I stay effect PM. Central hotel realize plan it purpose.",
+        "dorsal": -3272,
+        "fecha_nacimiento": "1975-11-17",
+        "categoria": 51,
+        "entrenador": 49
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 52,
+    "fields": {
+        "nombre": "Clear include couple act machine source almost. Loss reality but lot. Where cost inside.",
+        "dorsal": 11338,
+        "fecha_nacimiento": "1980-08-22",
+        "categoria": 55,
+        "entrenador": 47
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 53,
+    "fields": {
+        "nombre": "Scientist do us lot hear service might.",
+        "dorsal": -31759,
+        "fecha_nacimiento": "1972-09-28",
+        "categoria": 53,
+        "entrenador": 55
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 54,
+    "fields": {
+        "nombre": "Later at teach baby. Pick environment news town five. Marriage feel four end community collection.",
+        "dorsal": -9798,
+        "fecha_nacimiento": "2011-10-27",
+        "categoria": 54,
+        "entrenador": 53
+    }
+},
+{
+    "model": "club.jugador",
+    "pk": 55,
+    "fields": {
+        "nombre": "Any drug open allow she special. Heart top whether give put.",
+        "dorsal": 6449,
+        "fecha_nacimiento": "1974-06-29",
+        "categoria": 52,
+        "entrenador": 48
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 1,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 4,
+        "entrenador": 14
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 2,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 15,
+        "entrenador": 11
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 3,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 1,
+        "entrenador": 12
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 4,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 12,
+        "entrenador": 11
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 5,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 2,
+        "entrenador": 2
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 6,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 12,
+        "entrenador": 3
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 7,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 11,
+        "entrenador": 1
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 8,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 4,
+        "entrenador": 8
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 9,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 14,
+        "entrenador": 2
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 10,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 1,
+        "entrenador": 1
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 11,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 11,
+        "entrenador": 15
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 12,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 4,
+        "entrenador": 10
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 13,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 11,
+        "entrenador": 9
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 14,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 7,
+        "entrenador": 8
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 15,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:33:12.071",
+        "duracion_minutos": 60,
+        "categoria": 7,
+        "entrenador": 10
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 16,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 20,
+        "entrenador": 22
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 17,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 21,
+        "entrenador": 20
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 18,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 18,
+        "entrenador": 25
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 19,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 24,
+        "entrenador": 20
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 20,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 21,
+        "entrenador": 21
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 21,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 23,
+        "entrenador": 20
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 22,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 21,
+        "entrenador": 21
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 23,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 16,
+        "entrenador": 23
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 24,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 18,
+        "entrenador": 24
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 25,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T18:40:10.386",
+        "duracion_minutos": 60,
+        "categoria": 19,
+        "entrenador": 24
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 26,
+    "fields": {
+        "horario_entrenamiento": "2025-05-16T01:04:41",
+        "duracion_minutos": 68,
+        "categoria": 27,
+        "entrenador": 28
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 27,
+    "fields": {
+        "horario_entrenamiento": "2025-04-19T10:20:30",
+        "duracion_minutos": 73,
+        "categoria": 34,
+        "entrenador": 29
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 28,
+    "fields": {
+        "horario_entrenamiento": "2025-06-03T16:05:44",
+        "duracion_minutos": 109,
+        "categoria": 34,
+        "entrenador": 35
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 29,
+    "fields": {
+        "horario_entrenamiento": "2025-10-21T08:16:19",
+        "duracion_minutos": 68,
+        "categoria": 29,
+        "entrenador": 27
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 30,
+    "fields": {
+        "horario_entrenamiento": "2025-03-26T14:40:49",
+        "duracion_minutos": 114,
+        "categoria": 35,
+        "entrenador": 29
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 31,
+    "fields": {
+        "horario_entrenamiento": "2025-10-01T16:25:00",
+        "duracion_minutos": 46,
+        "categoria": 31,
+        "entrenador": 27
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 32,
+    "fields": {
+        "horario_entrenamiento": "2025-02-17T08:46:16",
+        "duracion_minutos": 63,
+        "categoria": 27,
+        "entrenador": 33
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 33,
+    "fields": {
+        "horario_entrenamiento": "2025-06-14T14:47:01",
+        "duracion_minutos": 59,
+        "categoria": 30,
+        "entrenador": 29
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 34,
+    "fields": {
+        "horario_entrenamiento": "2025-05-19T02:53:13",
+        "duracion_minutos": 97,
+        "categoria": 31,
+        "entrenador": 34
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 35,
+    "fields": {
+        "horario_entrenamiento": "2025-02-02T02:11:40",
+        "duracion_minutos": 95,
+        "categoria": 34,
+        "entrenador": 26
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 36,
+    "fields": {
+        "horario_entrenamiento": "2025-06-27T12:19:10",
+        "duracion_minutos": 118,
+        "categoria": 43,
+        "entrenador": 42
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 37,
+    "fields": {
+        "horario_entrenamiento": "2025-05-01T03:21:56",
+        "duracion_minutos": 54,
+        "categoria": 43,
+        "entrenador": 42
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 38,
+    "fields": {
+        "horario_entrenamiento": "2025-07-19T02:52:31",
+        "duracion_minutos": 97,
+        "categoria": 39,
+        "entrenador": 44
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 39,
+    "fields": {
+        "horario_entrenamiento": "2025-06-27T18:16:38",
+        "duracion_minutos": 79,
+        "categoria": 40,
+        "entrenador": 41
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 40,
+    "fields": {
+        "horario_entrenamiento": "2025-05-04T03:41:53",
+        "duracion_minutos": 83,
+        "categoria": 42,
+        "entrenador": 41
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 41,
+    "fields": {
+        "horario_entrenamiento": "2025-03-26T09:04:27",
+        "duracion_minutos": 118,
+        "categoria": 39,
+        "entrenador": 43
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 42,
+    "fields": {
+        "horario_entrenamiento": "2025-05-24T14:04:44",
+        "duracion_minutos": 79,
+        "categoria": 44,
+        "entrenador": 42
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 43,
+    "fields": {
+        "horario_entrenamiento": "2025-02-02T12:27:51",
+        "duracion_minutos": 86,
+        "categoria": 43,
+        "entrenador": 42
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 44,
+    "fields": {
+        "horario_entrenamiento": "2025-04-04T22:53:11",
+        "duracion_minutos": 118,
+        "categoria": 36,
+        "entrenador": 39
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 45,
+    "fields": {
+        "horario_entrenamiento": "2025-05-07T07:08:12",
+        "duracion_minutos": 45,
+        "categoria": 42,
+        "entrenador": 45
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 46,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 55,
+        "entrenador": 49
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 47,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 55,
+        "entrenador": 51
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 48,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 46,
+        "entrenador": 52
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 49,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 54,
+        "entrenador": 51
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 50,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 48,
+        "entrenador": 50
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 51,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 49,
+        "entrenador": 51
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 52,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 48,
+        "entrenador": 49
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 53,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 53,
+        "entrenador": 53
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 54,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 52,
+        "entrenador": 46
+    }
+},
+{
+    "model": "club.entrenamiento",
+    "pk": 55,
+    "fields": {
+        "horario_entrenamiento": "2025-11-19T19:20:58.956",
+        "duracion_minutos": 60,
+        "categoria": 47,
+        "entrenador": 51
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 1,
+    "fields": {
+        "tipo": "Fractura",
+        "fecha": "2025-04-03T10:30:04",
+        "descripcion": "Item look time teacher particular account. Sell plan reason five generation.",
+        "entrenamiento": 36,
+        "jugador": 44,
+        "entrenador": 42
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 2,
+    "fields": {
+        "tipo": "Corte",
+        "fecha": "2025-07-24T10:31:20",
+        "descripcion": "Form tree once involve yeah. South member argue music kind possible whole. Part fine line.",
+        "entrenamiento": 38,
+        "jugador": 37,
+        "entrenador": 44
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 3,
+    "fields": {
+        "tipo": "Contractura",
+        "fecha": "2025-04-25T23:35:26",
+        "descripcion": "Other use back. Develop floor let purpose environment mission information apply.",
+        "entrenamiento": 41,
+        "jugador": 39,
+        "entrenador": 43
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 4,
+    "fields": {
+        "tipo": "Esguince",
+        "fecha": "2025-04-22T19:34:25",
+        "descripcion": "Eye audience traditional next green effort strong. Happy resource election development little.",
+        "entrenamiento": 45,
+        "jugador": 38,
+        "entrenador": 45
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 5,
+    "fields": {
+        "tipo": "Corte",
+        "fecha": "2025-07-15T00:52:55",
+        "descripcion": "Ahead issue environment road country.",
+        "entrenamiento": 45,
+        "jugador": 43,
+        "entrenador": 45
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 6,
+    "fields": {
+        "tipo": "Morning story important quality sure professional on. Best stand assume office.",
+        "fecha": "2022-07-16T17:32:36",
+        "descripcion": "Good view yourself the boy next. Event watch available manage which.\nMoment certainly old authority up on. Full thousand set its action class. Year still all arrive.",
+        "entrenamiento": 53,
+        "jugador": 47,
+        "entrenador": 55
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 7,
+    "fields": {
+        "tipo": "Improve at owner own Mrs. Listen radio nothing deep common body.\nBecome least final usually.",
+        "fecha": "2010-04-21T02:06:05",
+        "descripcion": "Live keep hand significant everything. Professor as result use.\nBit artist black leader direction message behavior.\nInformation inside economy risk garden. Reveal reveal family open house.",
+        "entrenamiento": 49,
+        "jugador": 55,
+        "entrenador": 53
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 8,
+    "fields": {
+        "tipo": "Sister dark so eye yourself water.",
+        "fecha": "1978-03-08T05:50:27",
+        "descripcion": "Professional wonder present require become yourself beat return. Wide interest vote enter loss those. Customer sense central recognize exist three rise.",
+        "entrenamiento": 54,
+        "jugador": 50,
+        "entrenador": 50
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 9,
+    "fields": {
+        "tipo": "Under movie see. Rest run safe throughout seek base. Conference key suffer.",
+        "fecha": "1970-02-23T05:07:34",
+        "descripcion": "Support huge senior very page record.\nAssume someone price upon. Establish serve situation dream billion thought simple. Last risk feeling best same.",
+        "entrenamiento": 47,
+        "jugador": 53,
+        "entrenador": 47
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 10,
+    "fields": {
+        "tipo": "Any reality include baby. Behavior commercial at move. Consider part natural simply.",
+        "fecha": "1995-03-04T15:48:28",
+        "descripcion": "Commercial successful program glass high although make. Position class child hot stand age. Adult less impact several old price next. System message both then inside laugh dream.",
+        "entrenamiento": 47,
+        "jugador": 49,
+        "entrenador": 53
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 11,
+    "fields": {
+        "tipo": "Suddenly environmental indicate way let. Actually suggest start rather.",
+        "fecha": "2015-01-09T17:42:10",
+        "descripcion": "Election support about score. List beyond team his.\nWant capital street. Produce any computer fast wear kind particularly.",
+        "entrenamiento": 53,
+        "jugador": 52,
+        "entrenador": 47
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 12,
+    "fields": {
+        "tipo": "Employee travel entire lay spend team road. Recently hair shake game. Gun study worker note.",
+        "fecha": "2008-12-14T05:26:12",
+        "descripcion": "Serve investment shoulder system affect what life. Cost ten bring nor decide television.\nRequire alone call vote area. Together early under result few together.",
+        "entrenamiento": 52,
+        "jugador": 48,
+        "entrenador": 53
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 13,
+    "fields": {
+        "tipo": "Case star training major new show rock. Drop offer media foot grow cover.",
+        "fecha": "1998-12-11T03:04:37",
+        "descripcion": "Safe weight image on attention trip. Amount arm only. Month relate artist bring day nature charge. Wrong lose describe care so prove hard financial.",
+        "entrenamiento": 54,
+        "jugador": 46,
+        "entrenador": 46
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 14,
+    "fields": {
+        "tipo": "Participant career certain not real people message. Center move garden.",
+        "fecha": "2002-05-30T22:28:14",
+        "descripcion": "Pattern smile before here.\nPhone seven kitchen arm light other. Including leg trip follow network listen. Her water gas commercial occur.",
+        "entrenamiento": 50,
+        "jugador": 54,
+        "entrenador": 48
+    }
+},
+{
+    "model": "club.lesion",
+    "pk": 15,
+    "fields": {
+        "tipo": "Wear southern very. Include recent away go. Owner better choice I.",
+        "fecha": "1982-11-05T14:02:14",
+        "descripcion": "Just prevent better my. Tax mother expect no these.\nIncluding voice past move PM. Soon although herself another factor. Nice develop heart music place road.",
+        "entrenamiento": 50,
+        "jugador": 51,
+        "entrenador": 55
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 1,
+    "fields": {
+        "equipo_local": "Nation interest quality when. Upon its report find agree couple.",
+        "equipo_visitante": "Task mind teacher who none. Picture human meeting consider camera industry.",
+        "fecha": "2025-11-19T18:33:12.071",
+        "lugar": "Sign return memory little design exist. Actually seem standard. Career her beyond phone. Necessary father song time they yeah.",
+        "goles_local": 5623,
+        "goles_visitante": 27997
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 2,
+    "fields": {
+        "equipo_local": "Campaign bag necessary treatment yes discuss camera culture.",
+        "equipo_visitante": "Skin return up. Across society scene process whole. Property none blue central attack either.",
+        "fecha": "2025-11-19T18:33:12.071",
+        "lugar": "Technology around car behavior. Necessary member each purpose.",
+        "goles_local": 28446,
+        "goles_visitante": 13505
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 3,
+    "fields": {
+        "equipo_local": "Might beat determine leave direction foot decade. Out same special carry of test key.",
+        "equipo_visitante": "Some garden bring reflect.",
+        "fecha": "2025-11-19T18:33:12.071",
+        "lugar": "Drive should law window bill try perform Mrs. Prove theory camera. Clear win ask alone scientist behind spend next.",
+        "goles_local": 14567,
+        "goles_visitante": 19748
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 4,
+    "fields": {
+        "equipo_local": "Itself knowledge make network situation lose. While single camera strong artist.",
+        "equipo_visitante": "View that simple member reality leave bad.",
+        "fecha": "2025-11-19T18:33:12.071",
+        "lugar": "Part economy above. Without mother cultural teach health everybody old none. Site quite democratic director.\nFamily eye then list wonder.",
+        "goles_local": 18427,
+        "goles_visitante": 22125
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 5,
+    "fields": {
+        "equipo_local": "Church expert onto avoid force. Worry specific politics add unit.",
+        "equipo_visitante": "Feel focus course reach thus police. Four light yet only should similar course.",
+        "fecha": "2025-11-19T18:33:12.071",
+        "lugar": "Early open claim. Page image recent.\nOrder item significant identify these interesting necessary. Understand north art.",
+        "goles_local": 21953,
+        "goles_visitante": 19235
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 6,
+    "fields": {
+        "equipo_local": "None little work end. Whom customer laugh better. Run somebody rise onto.",
+        "equipo_visitante": "Section different program. However great design.",
+        "fecha": "2025-11-19T18:40:10.387",
+        "lugar": "Appear to system make. Certainly development game history six week generation.",
+        "goles_local": 5587,
+        "goles_visitante": 19355
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 7,
+    "fields": {
+        "equipo_local": "Performance whom table draw American ten pretty investment. Tonight upon pressure less.",
+        "equipo_visitante": "Trade six across. I there focus style. Your share may.",
+        "fecha": "2025-11-19T18:40:10.387",
+        "lugar": "Relationship either onto save age. Part interesting if certainly actually. Know save stock parent traditional.",
+        "goles_local": 19415,
+        "goles_visitante": 25650
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 8,
+    "fields": {
+        "equipo_local": "Foreign hot this agency try. Head himself billion minute last.",
+        "equipo_visitante": "Bit national blood set get. Inside energy south entire case arrive.",
+        "fecha": "2025-11-19T18:40:10.387",
+        "lugar": "Fire beyond no director heavy religious. Language present reach gas deep treatment summer every. Sometimes nothing culture manage site.",
+        "goles_local": 14513,
+        "goles_visitante": 30846
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 9,
+    "fields": {
+        "equipo_local": "Jeremiahshire",
+        "equipo_visitante": "Simpsonside",
+        "fecha": "2025-02-10T04:46:44",
+        "lugar": "58660 Campbell Passage Suite 508\nWest Jonathan, ND 19513",
+        "goles_local": 1,
+        "goles_visitante": 3
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 10,
+    "fields": {
+        "equipo_local": "South Darrellstad",
+        "equipo_visitante": "Port Reginald",
+        "fecha": "2025-11-05T03:37:16",
+        "lugar": "198 Johnathan Loaf\nHubershire, WA 02364",
+        "goles_local": 3,
+        "goles_visitante": 7
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 11,
+    "fields": {
+        "equipo_local": "North Stephanie",
+        "equipo_visitante": "Lake Mark",
+        "fecha": "2025-10-20T22:09:34",
+        "lugar": "63026 Colin Fall Apt. 831\nMartinezland, PA 09247",
+        "goles_local": 4,
+        "goles_visitante": 1
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 12,
+    "fields": {
+        "equipo_local": "North Kennethfort",
+        "equipo_visitante": "West Stephen",
+        "fecha": "2025-06-24T23:18:44",
+        "lugar": "346 Joseph Brooks Apt. 632\nWest Leahburgh, CT 48875",
+        "goles_local": 3,
+        "goles_visitante": 1
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 13,
+    "fields": {
+        "equipo_local": "Jamieburgh",
+        "equipo_visitante": "Lake Sandra",
+        "fecha": "2025-10-27T05:25:16",
+        "lugar": "9899 Nixon Ridges\nElizabethshire, WA 33157",
+        "goles_local": 0,
+        "goles_visitante": 7
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 14,
+    "fields": {
+        "equipo_local": "Port Shirley",
+        "equipo_visitante": "New Kimberly",
+        "fecha": "2025-08-11T20:32:37",
+        "lugar": "407 Johnson Trace Apt. 940\nEast Nathaniel, DE 22156",
+        "goles_local": 7,
+        "goles_visitante": 1
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 15,
+    "fields": {
+        "equipo_local": "West Heather",
+        "equipo_visitante": "Jefferyfort",
+        "fecha": "2025-02-19T12:39:36",
+        "lugar": "254 William Loop\nEatonside, CT 84811",
+        "goles_local": 2,
+        "goles_visitante": 5
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 16,
+    "fields": {
+        "equipo_local": "West Michael",
+        "equipo_visitante": "Marshville",
+        "fecha": "2025-03-27T13:34:15",
+        "lugar": "62789 Williams Via Suite 159\nArnoldside, MO 57584",
+        "goles_local": 2,
+        "goles_visitante": 2
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 17,
+    "fields": {
+        "equipo_local": "East Robert",
+        "equipo_visitante": "Gonzalezshire",
+        "fecha": "2025-01-08T11:32:14",
+        "lugar": "8938 Brenda Forks Apt. 668\nHamiltonmouth, KY 58133",
+        "goles_local": 4,
+        "goles_visitante": 2
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 18,
+    "fields": {
+        "equipo_local": "Port Nicole",
+        "equipo_visitante": "East Edwardview",
+        "fecha": "2025-03-01T05:00:20",
+        "lugar": "USS Stewart\nFPO AE 12568",
+        "goles_local": 7,
+        "goles_visitante": 3
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 19,
+    "fields": {
+        "equipo_local": "Port Mary",
+        "equipo_visitante": "South Aliciaborough",
+        "fecha": "2025-10-18T15:01:20",
+        "lugar": "481 Matthew Squares Suite 929\nSouth Kathyside, VT 82973",
+        "goles_local": 0,
+        "goles_visitante": 7
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 20,
+    "fields": {
+        "equipo_local": "Jesseton",
+        "equipo_visitante": "New Shelby",
+        "fecha": "2025-10-03T02:31:40",
+        "lugar": "8913 Harris Trail\nSouth Brianhaven, DC 44781",
+        "goles_local": 4,
+        "goles_visitante": 7
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 21,
+    "fields": {
+        "equipo_local": "East Christianport",
+        "equipo_visitante": "Lake Jill",
+        "fecha": "2025-06-02T22:12:52",
+        "lugar": "3292 Thompson Lake\nEast Madelinemouth, MP 20374",
+        "goles_local": 3,
+        "goles_visitante": 2
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 22,
+    "fields": {
+        "equipo_local": "Olsonburgh",
+        "equipo_visitante": "North Reneeton",
+        "fecha": "2025-02-01T20:16:53",
+        "lugar": "USCGC Bailey\nFPO AP 06839",
+        "goles_local": 3,
+        "goles_visitante": 6
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 23,
+    "fields": {
+        "equipo_local": "Scottborough",
+        "equipo_visitante": "Martinezborough",
+        "fecha": "2025-11-03T23:28:04",
+        "lugar": "40317 James Locks Apt. 225\nSalazarmouth, GA 41725",
+        "goles_local": 5,
+        "goles_visitante": 3
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 24,
+    "fields": {
+        "equipo_local": "Gregoryfort",
+        "equipo_visitante": "North Cindyborough",
+        "fecha": "2025-02-28T16:44:12",
+        "lugar": "1999 Robert Center\nPort Kevin, AR 30842",
+        "goles_local": 3,
+        "goles_visitante": 0
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 25,
+    "fields": {
+        "equipo_local": "Millerbury",
+        "equipo_visitante": "New Melissa",
+        "fecha": "2025-07-08T05:54:18",
+        "lugar": "7850 Gonzalez Rue\nWest Alexander, IL 85579",
+        "goles_local": 0,
+        "goles_visitante": 6
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 26,
+    "fields": {
+        "equipo_local": "Johnhaven",
+        "equipo_visitante": "East Paulachester",
+        "fecha": "2025-08-01T05:00:54",
+        "lugar": "8964 Kim River\nCannonport, WV 57491",
+        "goles_local": 4,
+        "goles_visitante": 5
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 27,
+    "fields": {
+        "equipo_local": "Newmanport",
+        "equipo_visitante": "Carlaside",
+        "fecha": "2025-01-10T14:47:49",
+        "lugar": "24486 Kathryn Courts\nJohnstad, NC 89265",
+        "goles_local": 2,
+        "goles_visitante": 6
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 28,
+    "fields": {
+        "equipo_local": "Smithshire",
+        "equipo_visitante": "West Catherinemouth",
+        "fecha": "2025-10-21T11:10:20",
+        "lugar": "3749 Anne Isle Suite 762\nGarzachester, IL 47371",
+        "goles_local": 7,
+        "goles_visitante": 3
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 29,
+    "fields": {
+        "equipo_local": "Need half moment world. Perhaps need unit.",
+        "equipo_visitante": "Across candidate if type operation edge language. Measure avoid year machine increase long become.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Now form threat however away establish. Product class eye writer leader. Answer strategy food. Medical entire situation myself.",
+        "goles_local": -12887,
+        "goles_visitante": 603
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 30,
+    "fields": {
+        "equipo_local": "Hope before spend protect we begin.",
+        "equipo_visitante": "Control side picture education.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Someone there likely national reality forward.\nMarket with series indicate hundred war.",
+        "goles_local": -32303,
+        "goles_visitante": 3908
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 31,
+    "fields": {
+        "equipo_local": "Among through second meeting nothing brother very. Former home become point up adult this.",
+        "equipo_visitante": "Nor recently reduce full record person. Foot science church skill wear politics.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Out traditional collection. Serve town new democratic.\nSport respond season instead huge go doctor. We and action garden prove.",
+        "goles_local": -16584,
+        "goles_visitante": -19547
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 32,
+    "fields": {
+        "equipo_local": "Everybody year home. Up focus suddenly per.",
+        "equipo_visitante": "Federal fish cause gun product. Power commercial billion conference. Various most career.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Consumer behavior teacher serious play drive heart. Green away hospital spring ever yeah everyone.",
+        "goles_local": -3366,
+        "goles_visitante": 25870
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 33,
+    "fields": {
+        "equipo_local": "Hair power machine school hair those. Buy couple six either. Often north call.",
+        "equipo_visitante": "Company spend PM leave.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Address too lot politics his. American occur specific scientist heavy father drug.",
+        "goles_local": -22707,
+        "goles_visitante": 4299
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 34,
+    "fields": {
+        "equipo_local": "Feel continue three yourself. Pattern analysis arm yes. History move site who appear.",
+        "equipo_visitante": "Show technology attack lay concern production. Eat yard message stuff.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Relate wish today cost capital oil.\nInteresting reason must continue simply. Rule while enter.",
+        "goles_local": -25631,
+        "goles_visitante": 10525
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 35,
+    "fields": {
+        "equipo_local": "Nor executive your. Reduce election professor car heavy evidence. Best option decision rather.",
+        "equipo_visitante": "Drug nice board.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Space best ago central general contain decide certainly. Public than alone trade seem great officer. Experience professor coach why forward.",
+        "goles_local": 7032,
+        "goles_visitante": 28093
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 36,
+    "fields": {
+        "equipo_local": "Fact oil staff inside box. Price wrong Mr population learn room soldier represent.",
+        "equipo_visitante": "Field tonight food stuff.\nEat wife career central sort. Event mind how agree yet.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "But appear thus class. Easy drug economic computer appear allow investment common.",
+        "goles_local": 20790,
+        "goles_visitante": 477
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 37,
+    "fields": {
+        "equipo_local": "Trial music floor very letter them.",
+        "equipo_visitante": "Old soldier eight easy. Travel sense worker some road.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Fact learn week get itself life. Mission without lose guess crime day impact. Music usually news usually might heavy fly.",
+        "goles_local": 14870,
+        "goles_visitante": -14507
+    }
+},
+{
+    "model": "club.partido",
+    "pk": 38,
+    "fields": {
+        "equipo_local": "Ever fill instead his serve card. Also single baby particularly.",
+        "equipo_visitante": "Happen right much stock. Must week offer why girl.\nNot sound type office material building.",
+        "fecha": "2025-11-19T19:20:58.956",
+        "lugar": "Management miss single field economy talk then manager. Move senior occur seat apply. Remember degree heart specific information physical.",
+        "goles_local": 7632,
+        "goles_visitante": -3204
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 1,
+    "fields": {
+        "goles": 21630,
+        "asistencias": 8154,
+        "minutos_jugados": 15281,
+        "jugador": 19,
+        "partido": 6
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 2,
+    "fields": {
+        "goles": 5139,
+        "asistencias": 3551,
+        "minutos_jugados": 28463,
+        "jugador": 18,
+        "partido": 7
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 3,
+    "fields": {
+        "goles": 2352,
+        "asistencias": 26456,
+        "minutos_jugados": 12333,
+        "jugador": 24,
+        "partido": 7
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 4,
+    "fields": {
+        "goles": 5,
+        "asistencias": 2,
+        "minutos_jugados": 82,
+        "jugador": 33,
+        "partido": 13
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 5,
+    "fields": {
+        "goles": 7,
+        "asistencias": 2,
+        "minutos_jugados": 20,
+        "jugador": 26,
+        "partido": 18
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 6,
+    "fields": {
+        "goles": 6,
+        "asistencias": 3,
+        "minutos_jugados": 4,
+        "jugador": 34,
+        "partido": 14
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 7,
+    "fields": {
+        "goles": 1,
+        "asistencias": 3,
+        "minutos_jugados": 13,
+        "jugador": 27,
+        "partido": 11
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 8,
+    "fields": {
+        "goles": 3,
+        "asistencias": 1,
+        "minutos_jugados": 78,
+        "jugador": 29,
+        "partido": 13
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 9,
+    "fields": {
+        "goles": 6,
+        "asistencias": 4,
+        "minutos_jugados": 28,
+        "jugador": 32,
+        "partido": 15
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 10,
+    "fields": {
+        "goles": 2,
+        "asistencias": 2,
+        "minutos_jugados": 46,
+        "jugador": 31,
+        "partido": 14
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 11,
+    "fields": {
+        "goles": 0,
+        "asistencias": 0,
+        "minutos_jugados": 84,
+        "jugador": 28,
+        "partido": 13
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 12,
+    "fields": {
+        "goles": 7,
+        "asistencias": 4,
+        "minutos_jugados": 67,
+        "jugador": 35,
+        "partido": 11
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 13,
+    "fields": {
+        "goles": 3,
+        "asistencias": 2,
+        "minutos_jugados": 61,
+        "jugador": 30,
+        "partido": 18
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 14,
+    "fields": {
+        "goles": 5,
+        "asistencias": 2,
+        "minutos_jugados": 86,
+        "jugador": 42,
+        "partido": 24
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 15,
+    "fields": {
+        "goles": 0,
+        "asistencias": 3,
+        "minutos_jugados": 61,
+        "jugador": 41,
+        "partido": 25
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 16,
+    "fields": {
+        "goles": 2,
+        "asistencias": 4,
+        "minutos_jugados": 48,
+        "jugador": 36,
+        "partido": 23
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 17,
+    "fields": {
+        "goles": 1,
+        "asistencias": 4,
+        "minutos_jugados": 21,
+        "jugador": 44,
+        "partido": 24
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 18,
+    "fields": {
+        "goles": 3,
+        "asistencias": 4,
+        "minutos_jugados": 11,
+        "jugador": 39,
+        "partido": 26
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 19,
+    "fields": {
+        "goles": 4,
+        "asistencias": 3,
+        "minutos_jugados": 50,
+        "jugador": 43,
+        "partido": 21
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 20,
+    "fields": {
+        "goles": 1,
+        "asistencias": 2,
+        "minutos_jugados": 67,
+        "jugador": 45,
+        "partido": 19
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 21,
+    "fields": {
+        "goles": 7,
+        "asistencias": 1,
+        "minutos_jugados": 66,
+        "jugador": 40,
+        "partido": 19
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 22,
+    "fields": {
+        "goles": 5,
+        "asistencias": 0,
+        "minutos_jugados": 31,
+        "jugador": 37,
+        "partido": 22
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 23,
+    "fields": {
+        "goles": 1,
+        "asistencias": 3,
+        "minutos_jugados": 47,
+        "jugador": 38,
+        "partido": 25
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 24,
+    "fields": {
+        "goles": 1817,
+        "asistencias": -9826,
+        "minutos_jugados": -27581,
+        "jugador": 52,
+        "partido": 36
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 25,
+    "fields": {
+        "goles": -26458,
+        "asistencias": 15408,
+        "minutos_jugados": -30181,
+        "jugador": 49,
+        "partido": 30
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 26,
+    "fields": {
+        "goles": 19525,
+        "asistencias": 2523,
+        "minutos_jugados": -9105,
+        "jugador": 48,
+        "partido": 38
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 27,
+    "fields": {
+        "goles": 5383,
+        "asistencias": -26896,
+        "minutos_jugados": 24793,
+        "jugador": 53,
+        "partido": 32
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 28,
+    "fields": {
+        "goles": 27864,
+        "asistencias": -23247,
+        "minutos_jugados": -22257,
+        "jugador": 47,
+        "partido": 38
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 29,
+    "fields": {
+        "goles": -20566,
+        "asistencias": 1428,
+        "minutos_jugados": -5633,
+        "jugador": 46,
+        "partido": 32
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 30,
+    "fields": {
+        "goles": -23338,
+        "asistencias": 7525,
+        "minutos_jugados": 21294,
+        "jugador": 54,
+        "partido": 31
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 31,
+    "fields": {
+        "goles": -210,
+        "asistencias": -5193,
+        "minutos_jugados": -27916,
+        "jugador": 50,
+        "partido": 31
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 32,
+    "fields": {
+        "goles": 30508,
+        "asistencias": -10999,
+        "minutos_jugados": 26209,
+        "jugador": 55,
+        "partido": 38
+    }
+},
+{
+    "model": "club.estadisticasjugador",
+    "pk": 33,
+    "fields": {
+        "goles": -31320,
+        "asistencias": 1202,
+        "minutos_jugados": 18095,
+        "jugador": 51,
+        "partido": 34
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 1,
+    "fields": {
+        "temporada": "Tough dinner dream.",
+        "categoria": 6,
+        "entrenador": 1,
+        "jugadores": [
+            3,
+            13,
+            14
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 2,
+    "fields": {
+        "temporada": "Newspaper base.",
+        "categoria": 6,
+        "entrenador": 11,
+        "jugadores": [
+            1,
+            8,
+            9
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 3,
+    "fields": {
+        "temporada": "Most poor person.",
+        "categoria": 13,
+        "entrenador": 7,
+        "jugadores": [
+            1,
+            6,
+            7
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 4,
+    "fields": {
+        "temporada": "Box minute spend.",
+        "categoria": 12,
+        "entrenador": 6,
+        "jugadores": [
+            9,
+            10,
+            13,
+            14
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 5,
+    "fields": {
+        "temporada": "Open politics.",
+        "categoria": 12,
+        "entrenador": 9,
+        "jugadores": [
+            5
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 6,
+    "fields": {
+        "temporada": "Population writer.",
+        "categoria": 12,
+        "entrenador": 11,
+        "jugadores": [
+            2,
+            4
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 7,
+    "fields": {
+        "temporada": "Since manager.",
+        "categoria": 13,
+        "entrenador": 1,
+        "jugadores": [
+            5,
+            6,
+            8
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 8,
+    "fields": {
+        "temporada": "Service story.",
+        "categoria": 5,
+        "entrenador": 15,
+        "jugadores": [
+            4,
+            5,
+            12
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 9,
+    "fields": {
+        "temporada": "East whole.",
+        "categoria": 9,
+        "entrenador": 12,
+        "jugadores": [
+            2,
+            3,
+            4,
+            13
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 10,
+    "fields": {
+        "temporada": "Value data interest.",
+        "categoria": 2,
+        "entrenador": 5,
+        "jugadores": [
+            1,
+            6
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 11,
+    "fields": {
+        "temporada": "Event power happen.",
+        "categoria": 13,
+        "entrenador": 1,
+        "jugadores": [
+            3,
+            6,
+            12
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 12,
+    "fields": {
+        "temporada": "Experience walk.",
+        "categoria": 2,
+        "entrenador": 7,
+        "jugadores": [
+            4,
+            6,
+            12
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 13,
+    "fields": {
+        "temporada": "Should particular.",
+        "categoria": 12,
+        "entrenador": 5,
+        "jugadores": [
+            4,
+            12
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 14,
+    "fields": {
+        "temporada": "Tree laugh pass ok.",
+        "categoria": 4,
+        "entrenador": 5,
+        "jugadores": [
+            7,
+            9,
+            13
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 15,
+    "fields": {
+        "temporada": "Community which.",
+        "categoria": 1,
+        "entrenador": 8,
+        "jugadores": [
+            1,
+            3
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 16,
+    "fields": {
+        "temporada": "Before man source.",
+        "categoria": 23,
+        "entrenador": 23,
+        "jugadores": [
+            17,
+            21,
+            24
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 17,
+    "fields": {
+        "temporada": "Big thousand.",
+        "categoria": 17,
+        "entrenador": 24,
+        "jugadores": [
+            25
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 18,
+    "fields": {
+        "temporada": "Situation character.",
+        "categoria": 21,
+        "entrenador": 16,
+        "jugadores": [
+            19,
+            24
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 19,
+    "fields": {
+        "temporada": "Performance by.",
+        "categoria": 16,
+        "entrenador": 21,
+        "jugadores": [
+            17,
+            18,
+            19
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 20,
+    "fields": {
+        "temporada": "Chance final wind.",
+        "categoria": 18,
+        "entrenador": 17,
+        "jugadores": [
+            18,
+            25
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 21,
+    "fields": {
+        "temporada": "Certainly deal.",
+        "categoria": 22,
+        "entrenador": 19,
+        "jugadores": [
+            21
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 22,
+    "fields": {
+        "temporada": "Outside must also.",
+        "categoria": 18,
+        "entrenador": 18,
+        "jugadores": [
+            25
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 23,
+    "fields": {
+        "temporada": "Yeah rate toward.",
+        "categoria": 24,
+        "entrenador": 18,
+        "jugadores": [
+            17,
+            18,
+            22
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 24,
+    "fields": {
+        "temporada": "Toward be realize.",
+        "categoria": 16,
+        "entrenador": 18,
+        "jugadores": [
+            25
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 25,
+    "fields": {
+        "temporada": "Beat kind expect.",
+        "categoria": 17,
+        "entrenador": 23,
+        "jugadores": [
+            16,
+            21,
+            22
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 26,
+    "fields": {
+        "temporada": "2016",
+        "categoria": 31,
+        "entrenador": 35,
+        "jugadores": [
+            26,
+            28,
+            30,
+            31,
+            34,
+            35
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 27,
+    "fields": {
+        "temporada": "1991",
+        "categoria": 33,
+        "entrenador": 27,
+        "jugadores": [
+            26,
+            30,
+            31,
+            32,
+            34,
+            35
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 28,
+    "fields": {
+        "temporada": "1975",
+        "categoria": 29,
+        "entrenador": 28,
+        "jugadores": [
+            26,
+            29,
+            30,
+            33,
+            34,
+            35
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 29,
+    "fields": {
+        "temporada": "2005",
+        "categoria": 26,
+        "entrenador": 28,
+        "jugadores": [
+            26,
+            29,
+            30,
+            33,
+            34
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 30,
+    "fields": {
+        "temporada": "1977",
+        "categoria": 35,
+        "entrenador": 26,
+        "jugadores": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 31,
+    "fields": {
+        "temporada": "1974",
+        "categoria": 26,
+        "entrenador": 29,
+        "jugadores": [
+            26,
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34,
+            35
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 32,
+    "fields": {
+        "temporada": "1973",
+        "categoria": 32,
+        "entrenador": 32,
+        "jugadores": [
+            27,
+            28,
+            29,
+            30,
+            31,
+            32,
+            33,
+            34
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 33,
+    "fields": {
+        "temporada": "1994",
+        "categoria": 27,
+        "entrenador": 29,
+        "jugadores": [
+            28,
+            30,
+            31,
+            34
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 34,
+    "fields": {
+        "temporada": "2007",
+        "categoria": 30,
+        "entrenador": 33,
+        "jugadores": [
+            27,
+            28,
+            29,
+            31,
+            33
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 35,
+    "fields": {
+        "temporada": "2016",
+        "categoria": 32,
+        "entrenador": 32,
+        "jugadores": [
+            26,
+            27,
+            29,
+            31,
+            33,
+            35
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 36,
+    "fields": {
+        "temporada": "1981",
+        "categoria": 44,
+        "entrenador": 42,
+        "jugadores": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            42,
+            43,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 37,
+    "fields": {
+        "temporada": "1994",
+        "categoria": 45,
+        "entrenador": 40,
+        "jugadores": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 38,
+    "fields": {
+        "temporada": "2005",
+        "categoria": 41,
+        "entrenador": 43,
+        "jugadores": [
+            39,
+            40,
+            41,
+            42,
+            43,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 39,
+    "fields": {
+        "temporada": "2024",
+        "categoria": 38,
+        "entrenador": 39,
+        "jugadores": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 40,
+    "fields": {
+        "temporada": "2003",
+        "categoria": 40,
+        "entrenador": 45,
+        "jugadores": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 41,
+    "fields": {
+        "temporada": "2022",
+        "categoria": 39,
+        "entrenador": 36,
+        "jugadores": [
+            36,
+            37,
+            38,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 42,
+    "fields": {
+        "temporada": "1979",
+        "categoria": 37,
+        "entrenador": 38,
+        "jugadores": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            42,
+            43,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 43,
+    "fields": {
+        "temporada": "2014",
+        "categoria": 43,
+        "entrenador": 38,
+        "jugadores": [
+            39,
+            40,
+            41,
+            42,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 44,
+    "fields": {
+        "temporada": "1989",
+        "categoria": 45,
+        "entrenador": 41,
+        "jugadores": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 45,
+    "fields": {
+        "temporada": "1970",
+        "categoria": 44,
+        "entrenador": 41,
+        "jugadores": [
+            36,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            44,
+            45
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 46,
+    "fields": {
+        "temporada": "Lay small response.",
+        "categoria": 51,
+        "entrenador": 47,
+        "jugadores": [
+            48,
+            50
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 47,
+    "fields": {
+        "temporada": "Process exist heavy.",
+        "categoria": 47,
+        "entrenador": 50,
+        "jugadores": [
+            55
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 48,
+    "fields": {
+        "temporada": "Authority south.",
+        "categoria": 50,
+        "entrenador": 51,
+        "jugadores": [
+            51
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 49,
+    "fields": {
+        "temporada": "Will research front.",
+        "categoria": 53,
+        "entrenador": 54,
+        "jugadores": [
+            50,
+            51,
+            54
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 50,
+    "fields": {
+        "temporada": "Answer join common.",
+        "categoria": 51,
+        "entrenador": 47,
+        "jugadores": [
+            48,
+            54
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 51,
+    "fields": {
+        "temporada": "Board accept try.",
+        "categoria": 53,
+        "entrenador": 53,
+        "jugadores": [
+            46,
+            49,
+            55
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 52,
+    "fields": {
+        "temporada": "Near fight.",
+        "categoria": 53,
+        "entrenador": 49,
+        "jugadores": [
+            48,
+            50,
+            51
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 53,
+    "fields": {
+        "temporada": "Natural century in.",
+        "categoria": 46,
+        "entrenador": 47,
+        "jugadores": [
+            50
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 54,
+    "fields": {
+        "temporada": "Deal brother space.",
+        "categoria": 47,
+        "entrenador": 54,
+        "jugadores": [
+            49,
+            50,
+            54
+        ]
+    }
+},
+{
+    "model": "club.plantilla",
+    "pk": 55,
+    "fields": {
+        "temporada": "Light all.",
+        "categoria": 51,
+        "entrenador": 51,
+        "jugadores": [
+            53
+        ]
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 1,
+    "fields": {
+        "concepto": "Whether will hair position group which lead.",
+        "monto": 0.61518564869841,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 5
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 2,
+    "fields": {
+        "concepto": "Natural drive personal into perform serious top. Various possible city spend.",
+        "monto": 0.4272185707880972,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 12
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 3,
+    "fields": {
+        "concepto": "Congress while chance shake what allow safe. Cause share book.",
+        "monto": 0.371539531578048,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 9
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 4,
+    "fields": {
+        "concepto": "Sign know least human development experience. Letter design performance seem marriage beat.",
+        "monto": 0.04933092384818738,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 6
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 5,
+    "fields": {
+        "concepto": "Nice director audience low price alone. Dinner old might. Off study have form language.",
+        "monto": 0.31207304968835015,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 15
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 6,
+    "fields": {
+        "concepto": "Husband history lawyer history moment manager far. Represent watch cover very long rest.",
+        "monto": 0.8191849508008503,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 11
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 7,
+    "fields": {
+        "concepto": "Small street win interview wish table form. Side attack store set deal. Term free everybody travel.",
+        "monto": 0.9488062143780331,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 1
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 8,
+    "fields": {
+        "concepto": "Case look participant.\nModel research oil whole seven history. Listen eight our every.",
+        "monto": 0.6808202932302172,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 9
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 9,
+    "fields": {
+        "concepto": "Go interview their born collection grow. Factor paper again.",
+        "monto": 0.39272806980913566,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 14
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 10,
+    "fields": {
+        "concepto": "Total fund north. Soldier feeling clear difficult. Themselves common bed Mr list past.",
+        "monto": 0.08337672328141954,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 3
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 11,
+    "fields": {
+        "concepto": "Stuff condition politics scene word. Act several management six reality.",
+        "monto": 0.7703229599501032,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 5
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 12,
+    "fields": {
+        "concepto": "Blood really yard wind trade. Read with opportunity bit some girl feel let.",
+        "monto": 0.07265296537618171,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 14
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 13,
+    "fields": {
+        "concepto": "Final part help difficult. Letter set throw reach machine but.",
+        "monto": 0.46388381557111424,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 15
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 14,
+    "fields": {
+        "concepto": "Us agree fish. Evening matter particularly too.",
+        "monto": 0.3263261850874025,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 1
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 15,
+    "fields": {
+        "concepto": "City spend nice. Police attorney now center southern.",
+        "monto": 0.9932681175187913,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:33:12.071",
+        "jugador": 12
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 16,
+    "fields": {
+        "concepto": "Degree learn put note believe image rich. Find parent how result environment.",
+        "monto": 0.8429649178578765,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 23
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 17,
+    "fields": {
+        "concepto": "Expect career eat. During fact center.",
+        "monto": 0.37812759069888346,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 20
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 18,
+    "fields": {
+        "concepto": "Such question news offer leave cold own. Mouth treat decide commercial cause soldier before.",
+        "monto": 0.00725001996306418,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 23
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 19,
+    "fields": {
+        "concepto": "Business glass white simple value. Dream best quite near visit win.",
+        "monto": 0.5165154386012057,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 20
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 20,
+    "fields": {
+        "concepto": "Industry hundred may knowledge. Carry easy many. Almost affect city teacher store Mrs.",
+        "monto": 0.8001717387548511,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 17
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 21,
+    "fields": {
+        "concepto": "Follow ok yet issue good artist develop health. Why decide girl bank would difference itself.",
+        "monto": 0.09596164485075354,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 21
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 22,
+    "fields": {
+        "concepto": "Future air south yes. Day responsibility government social although fill.",
+        "monto": 0.19402358293531619,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 19
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 23,
+    "fields": {
+        "concepto": "Major state day often whom.",
+        "monto": 0.8974984496861353,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 24
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 24,
+    "fields": {
+        "concepto": "Indeed call unit other as best sit.",
+        "monto": 0.42894086462024716,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 16
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 25,
+    "fields": {
+        "concepto": "Bit area agreement size. In interesting pay well fact not.",
+        "monto": 0.5487689183309389,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T18:40:10.386",
+        "jugador": 22
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 26,
+    "fields": {
+        "concepto": "Material",
+        "monto": 80.87,
+        "pagado": true,
+        "fecha_pago": "2025-01-24T15:12:44",
+        "jugador": 33
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 27,
+    "fields": {
+        "concepto": "Material",
+        "monto": 54.24,
+        "pagado": false,
+        "fecha_pago": "2025-02-18T14:41:47",
+        "jugador": 28
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 28,
+    "fields": {
+        "concepto": "Mensualidad",
+        "monto": 17.76,
+        "pagado": true,
+        "fecha_pago": "2025-11-18T23:35:37",
+        "jugador": 33
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 29,
+    "fields": {
+        "concepto": "Mensualidad",
+        "monto": 24.29,
+        "pagado": true,
+        "fecha_pago": "2025-02-28T22:21:30",
+        "jugador": 30
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 30,
+    "fields": {
+        "concepto": "Material",
+        "monto": 20.28,
+        "pagado": false,
+        "fecha_pago": "2025-06-20T10:57:28",
+        "jugador": 32
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 31,
+    "fields": {
+        "concepto": "Viaje",
+        "monto": 92.25,
+        "pagado": false,
+        "fecha_pago": "2025-06-14T22:01:24",
+        "jugador": 28
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 32,
+    "fields": {
+        "concepto": "Viaje",
+        "monto": 81.11,
+        "pagado": false,
+        "fecha_pago": "2025-03-10T17:23:36",
+        "jugador": 28
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 33,
+    "fields": {
+        "concepto": "Viaje",
+        "monto": 41.59,
+        "pagado": false,
+        "fecha_pago": "2025-01-29T19:21:08",
+        "jugador": 28
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 34,
+    "fields": {
+        "concepto": "Viaje",
+        "monto": 52.17,
+        "pagado": true,
+        "fecha_pago": "2025-07-27T09:16:57",
+        "jugador": 31
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 35,
+    "fields": {
+        "concepto": "Viaje",
+        "monto": 74.05,
+        "pagado": true,
+        "fecha_pago": "2025-09-25T21:06:41",
+        "jugador": 31
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 36,
+    "fields": {
+        "concepto": "Material",
+        "monto": 27.37,
+        "pagado": true,
+        "fecha_pago": "2025-01-16T20:37:39",
+        "jugador": 42
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 37,
+    "fields": {
+        "concepto": "Material",
+        "monto": 69.79,
+        "pagado": true,
+        "fecha_pago": "2025-06-02T07:04:54",
+        "jugador": 43
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 38,
+    "fields": {
+        "concepto": "Material",
+        "monto": 22.22,
+        "pagado": false,
+        "fecha_pago": "2025-06-27T08:13:00",
+        "jugador": 42
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 39,
+    "fields": {
+        "concepto": "Material",
+        "monto": 82.54,
+        "pagado": true,
+        "fecha_pago": "2025-10-09T16:56:37",
+        "jugador": 45
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 40,
+    "fields": {
+        "concepto": "Viaje",
+        "monto": 41.77,
+        "pagado": true,
+        "fecha_pago": "2025-03-16T15:39:42",
+        "jugador": 44
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 41,
+    "fields": {
+        "concepto": "Viaje",
+        "monto": 81.74,
+        "pagado": true,
+        "fecha_pago": "2025-04-18T12:21:53",
+        "jugador": 41
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 42,
+    "fields": {
+        "concepto": "Material",
+        "monto": 35.13,
+        "pagado": true,
+        "fecha_pago": "2025-06-08T08:27:18",
+        "jugador": 39
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 43,
+    "fields": {
+        "concepto": "Material",
+        "monto": 12.06,
+        "pagado": true,
+        "fecha_pago": "2025-10-15T04:01:49",
+        "jugador": 41
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 44,
+    "fields": {
+        "concepto": "Material",
+        "monto": 25.54,
+        "pagado": true,
+        "fecha_pago": "2025-05-10T09:06:42",
+        "jugador": 43
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 45,
+    "fields": {
+        "concepto": "Mensualidad",
+        "monto": 21.41,
+        "pagado": true,
+        "fecha_pago": "2025-01-05T16:17:53",
+        "jugador": 40
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 46,
+    "fields": {
+        "concepto": "See management apply.\nMust make watch way.",
+        "monto": 0.4617962307471255,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 46
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 47,
+    "fields": {
+        "concepto": "Local risk relate painting clearly. Soldier city sport talk total walk.",
+        "monto": 0.6709576623939127,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 50
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 48,
+    "fields": {
+        "concepto": "Next nearly stock region fish. Ground decade change oil.",
+        "monto": 0.3340196519162407,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 46
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 49,
+    "fields": {
+        "concepto": "Minute short scene hundred. Court pressure maybe apply develop.",
+        "monto": 0.551500364939531,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 46
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 50,
+    "fields": {
+        "concepto": "Another audience family image. Act a suddenly listen music.",
+        "monto": 0.8781755510955134,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 48
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 51,
+    "fields": {
+        "concepto": "Way environment product important wish laugh computer. Cover wife bed imagine attorney human kind.",
+        "monto": 0.686396759307348,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 52
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 52,
+    "fields": {
+        "concepto": "Two country safe old office.\nMorning imagine majority. Continue maintain right.",
+        "monto": 0.9790897239423628,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 46
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 53,
+    "fields": {
+        "concepto": "Send long character third. View boy over article near. Often trouble forget relationship must.",
+        "monto": 0.20978850789012482,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 55
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 54,
+    "fields": {
+        "concepto": "Knowledge white far form. Food allow wind senior another. Agree direction arrive me discover.",
+        "monto": 0.6832983848346786,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 47
+    }
+},
+{
+    "model": "club.pago",
+    "pk": 55,
+    "fields": {
+        "concepto": "Responsibility brother likely play also produce compare activity. Church lay end option.",
+        "monto": 0.4079299186589965,
+        "pagado": true,
+        "fecha_pago": "2025-11-19T19:20:58.956",
+        "jugador": 52
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 1,
+    "fields": {
+        "entrenamiento": 1,
+        "jugador": 4,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 2,
+    "fields": {
+        "entrenamiento": 2,
+        "jugador": 10,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 3,
+    "fields": {
+        "entrenamiento": 2,
+        "jugador": 13,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 4,
+    "fields": {
+        "entrenamiento": 3,
+        "jugador": 4,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 5,
+    "fields": {
+        "entrenamiento": 4,
+        "jugador": 14,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 6,
+    "fields": {
+        "entrenamiento": 5,
+        "jugador": 4,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 7,
+    "fields": {
+        "entrenamiento": 5,
+        "jugador": 11,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 8,
+    "fields": {
+        "entrenamiento": 5,
+        "jugador": 12,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 9,
+    "fields": {
+        "entrenamiento": 5,
+        "jugador": 9,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 10,
+    "fields": {
+        "entrenamiento": 6,
+        "jugador": 5,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 11,
+    "fields": {
+        "entrenamiento": 6,
+        "jugador": 14,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 12,
+    "fields": {
+        "entrenamiento": 6,
+        "jugador": 6,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 13,
+    "fields": {
+        "entrenamiento": 7,
+        "jugador": 1,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 14,
+    "fields": {
+        "entrenamiento": 7,
+        "jugador": 11,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 15,
+    "fields": {
+        "entrenamiento": 8,
+        "jugador": 6,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 16,
+    "fields": {
+        "entrenamiento": 9,
+        "jugador": 1,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 17,
+    "fields": {
+        "entrenamiento": 9,
+        "jugador": 5,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 18,
+    "fields": {
+        "entrenamiento": 10,
+        "jugador": 2,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 19,
+    "fields": {
+        "entrenamiento": 10,
+        "jugador": 13,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 20,
+    "fields": {
+        "entrenamiento": 11,
+        "jugador": 13,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 21,
+    "fields": {
+        "entrenamiento": 11,
+        "jugador": 10,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 22,
+    "fields": {
+        "entrenamiento": 11,
+        "jugador": 12,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 23,
+    "fields": {
+        "entrenamiento": 12,
+        "jugador": 7,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 24,
+    "fields": {
+        "entrenamiento": 12,
+        "jugador": 4,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 25,
+    "fields": {
+        "entrenamiento": 12,
+        "jugador": 1,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 26,
+    "fields": {
+        "entrenamiento": 13,
+        "jugador": 5,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 27,
+    "fields": {
+        "entrenamiento": 13,
+        "jugador": 15,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 28,
+    "fields": {
+        "entrenamiento": 13,
+        "jugador": 2,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 29,
+    "fields": {
+        "entrenamiento": 13,
+        "jugador": 10,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 30,
+    "fields": {
+        "entrenamiento": 14,
+        "jugador": 13,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 31,
+    "fields": {
+        "entrenamiento": 14,
+        "jugador": 11,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 32,
+    "fields": {
+        "entrenamiento": 14,
+        "jugador": 15,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 33,
+    "fields": {
+        "entrenamiento": 15,
+        "jugador": 4,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 34,
+    "fields": {
+        "entrenamiento": 15,
+        "jugador": 5,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 35,
+    "fields": {
+        "entrenamiento": 15,
+        "jugador": 13,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 36,
+    "fields": {
+        "entrenamiento": 15,
+        "jugador": 7,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 37,
+    "fields": {
+        "entrenamiento": 13,
+        "jugador": 13,
+        "presente": true,
+        "observaciones": "Among one lot us wind difference. Bag free number way raise. Hope bit push management difficult.\nYourself southern age open sea. Cut wear most policy. Various space card from."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 38,
+    "fields": {
+        "entrenamiento": 6,
+        "jugador": 11,
+        "presente": true,
+        "observaciones": "Ready kind Democrat memory true high lead. Add deep of yourself short. Together show pressure deal table.\nAccept data to. Such rate political environment."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 39,
+    "fields": {
+        "entrenamiento": 9,
+        "jugador": 9,
+        "presente": true,
+        "observaciones": "Measure machine unit quality part. Institution something explain top.\nEspecially ok me open. Man cultural soon eight quickly different."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 40,
+    "fields": {
+        "entrenamiento": 12,
+        "jugador": 6,
+        "presente": true,
+        "observaciones": "Exactly together money down reduce grow.\nProject court event building central deep wish. Everybody necessary myself during wife allow statement. Model son few central. Know material news than."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 41,
+    "fields": {
+        "entrenamiento": 12,
+        "jugador": 3,
+        "presente": true,
+        "observaciones": "Difficult hand become air compare. Many high high clear level mean. Him their than very edge send college.\nPositive economy edge. Mouth activity country charge room fight."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 42,
+    "fields": {
+        "entrenamiento": 11,
+        "jugador": 11,
+        "presente": true,
+        "observaciones": "Tonight enjoy soon. Million strategy expert season development probably issue. Let effect where institution table plant unit."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 43,
+    "fields": {
+        "entrenamiento": 11,
+        "jugador": 6,
+        "presente": true,
+        "observaciones": "Mother study start against child concern begin. Assume moment along guy involve chance method."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 44,
+    "fields": {
+        "entrenamiento": 11,
+        "jugador": 5,
+        "presente": true,
+        "observaciones": "Need line degree wide. Agency find rest Congress meeting. List body issue activity business maybe paper.\nCamera nothing federal amount draw purpose."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 45,
+    "fields": {
+        "entrenamiento": 8,
+        "jugador": 4,
+        "presente": true,
+        "observaciones": "Third hand during series there speech animal. Hundred ago born have own whose PM.\nSmall far past available through go perhaps. Open campaign professor away. Sport attack without religious."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 46,
+    "fields": {
+        "entrenamiento": 4,
+        "jugador": 12,
+        "presente": true,
+        "observaciones": "Score trouble among ball some. Large interest choose senior break cost world.\nAmount site remain thought. Air TV herself often either."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 47,
+    "fields": {
+        "entrenamiento": 6,
+        "jugador": 12,
+        "presente": true,
+        "observaciones": "Defense technology I country president forward adult north. Total real matter term light hit mother.\nEmployee oil well that head thus. Performance civil hundred here list church."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 48,
+    "fields": {
+        "entrenamiento": 5,
+        "jugador": 7,
+        "presente": true,
+        "observaciones": "Cause why determine. Yes off style letter dream. Run member specific clearly.\nThese must book field few forward behavior. Create kind air modern region science ever find."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 49,
+    "fields": {
+        "entrenamiento": 6,
+        "jugador": 8,
+        "presente": true,
+        "observaciones": "Institution sea little major picture defense scene. Peace else store popular grow return. Miss believe ahead year once."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 50,
+    "fields": {
+        "entrenamiento": 5,
+        "jugador": 3,
+        "presente": true,
+        "observaciones": "With service state could. This child mother movie certainly sea space. Tv yeah dream already force cut class."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 51,
+    "fields": {
+        "entrenamiento": 12,
+        "jugador": 1,
+        "presente": true,
+        "observaciones": "Reason style write eye part maybe. Language nice activity sister maintain them view memory. Player interesting care light us pick image same."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 52,
+    "fields": {
+        "entrenamiento": 16,
+        "jugador": 25,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 53,
+    "fields": {
+        "entrenamiento": 17,
+        "jugador": 21,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 54,
+    "fields": {
+        "entrenamiento": 17,
+        "jugador": 20,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 55,
+    "fields": {
+        "entrenamiento": 18,
+        "jugador": 21,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 56,
+    "fields": {
+        "entrenamiento": 18,
+        "jugador": 23,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 57,
+    "fields": {
+        "entrenamiento": 19,
+        "jugador": 21,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 58,
+    "fields": {
+        "entrenamiento": 20,
+        "jugador": 22,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 59,
+    "fields": {
+        "entrenamiento": 21,
+        "jugador": 19,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 60,
+    "fields": {
+        "entrenamiento": 21,
+        "jugador": 18,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 61,
+    "fields": {
+        "entrenamiento": 21,
+        "jugador": 23,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 62,
+    "fields": {
+        "entrenamiento": 22,
+        "jugador": 19,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 63,
+    "fields": {
+        "entrenamiento": 22,
+        "jugador": 20,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 64,
+    "fields": {
+        "entrenamiento": 23,
+        "jugador": 18,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 65,
+    "fields": {
+        "entrenamiento": 23,
+        "jugador": 19,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 66,
+    "fields": {
+        "entrenamiento": 23,
+        "jugador": 24,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 67,
+    "fields": {
+        "entrenamiento": 24,
+        "jugador": 16,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 68,
+    "fields": {
+        "entrenamiento": 24,
+        "jugador": 23,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 69,
+    "fields": {
+        "entrenamiento": 25,
+        "jugador": 25,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 70,
+    "fields": {
+        "entrenamiento": 25,
+        "jugador": 21,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 71,
+    "fields": {
+        "entrenamiento": 25,
+        "jugador": 22,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 72,
+    "fields": {
+        "entrenamiento": 24,
+        "jugador": 24,
+        "presente": true,
+        "observaciones": "Party anyone as concern culture tend prepare. Hear allow operation than site floor often. Successful staff arm."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 73,
+    "fields": {
+        "entrenamiento": 25,
+        "jugador": 19,
+        "presente": true,
+        "observaciones": "Nice last nice bill design hard expect. Benefit near future after next indeed road.\nDream process next fast. Campaign traditional take. Too month direction them PM man scientist."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 74,
+    "fields": {
+        "entrenamiento": 19,
+        "jugador": 17,
+        "presente": true,
+        "observaciones": "Both soldier manager you rock. Speak pretty suggest they blue write whom.\nBehind hot word pick particularly travel determine some. Eat very write. Same find also or."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 75,
+    "fields": {
+        "entrenamiento": 19,
+        "jugador": 21,
+        "presente": true,
+        "observaciones": "Act save drop issue spring painting like. First author beyond network. Give available good speech pass husband point big.\nGrowth soon capital economic road. If eye cell sort rest movie."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 76,
+    "fields": {
+        "entrenamiento": 21,
+        "jugador": 20,
+        "presente": true,
+        "observaciones": "Budget as general thousand data easy. Maintain necessary by million prove trip music board. Ahead number time fact.\nStrategy present time strong. Hair most letter family hair animal."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 77,
+    "fields": {
+        "entrenamiento": 17,
+        "jugador": 24,
+        "presente": true,
+        "observaciones": "Bit family like write. Professional tax how well production model today.\nWeight result care imagine. Window current fight subject. Or management always many large old. Ball push page."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 78,
+    "fields": {
+        "entrenamiento": 21,
+        "jugador": 24,
+        "presente": true,
+        "observaciones": "With age dream likely modern. Tend education letter win sit sit offer. Nothing boy politics wind.\nGarden class before. Blue husband difficult hope."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 79,
+    "fields": {
+        "entrenamiento": 20,
+        "jugador": 20,
+        "presente": true,
+        "observaciones": "Matter enough environment different network. Decade respond real.\nSister program to leader hit. Offer election state girl peace. Part court year law care war."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 80,
+    "fields": {
+        "entrenamiento": 19,
+        "jugador": 23,
+        "presente": true,
+        "observaciones": "Me teach interesting evening receive camera. Knowledge imagine term up range hard. Eye trouble management consumer situation factor society.\nOr program particular thousand. Bad understand who bill."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 81,
+    "fields": {
+        "entrenamiento": 22,
+        "jugador": 17,
+        "presente": true,
+        "observaciones": "Improve already product least police similar. So add mind appear child list. Purpose care probably result land.\nStory lose name office. Nothing just together anyone blood four phone."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 82,
+    "fields": {
+        "entrenamiento": 34,
+        "jugador": 27,
+        "presente": false,
+        "observaciones": "Top remember letter live marriage. Build career else own you hair ever. Factor most bring.\nRisk lead perform yeah step. Off quite stop name own difficult."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 83,
+    "fields": {
+        "entrenamiento": 32,
+        "jugador": 28,
+        "presente": true,
+        "observaciones": "Ready whom major writer necessary responsibility day. Nation Mr take pressure.\nHere enter usually. Appear news and machine too believe."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 84,
+    "fields": {
+        "entrenamiento": 26,
+        "jugador": 31,
+        "presente": true,
+        "observaciones": "Step stop once age training feeling rise. She simple clear week. Provide mother child pay suddenly.\nFear team part even reason main much. Training would control analysis book. Open manager form on."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 85,
+    "fields": {
+        "entrenamiento": 35,
+        "jugador": 26,
+        "presente": true,
+        "observaciones": "Her its its teach west him. Agent us suffer remember building according truth. Share change lot difference behavior environmental federal exist."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 86,
+    "fields": {
+        "entrenamiento": 28,
+        "jugador": 31,
+        "presente": true,
+        "observaciones": "Four subject how especially drug. List among article across white doctor.\nRange why now wonder physical."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 87,
+    "fields": {
+        "entrenamiento": 30,
+        "jugador": 26,
+        "presente": false,
+        "observaciones": "Bill sound traditional guy adult. Former forward old to chair degree land day."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 88,
+    "fields": {
+        "entrenamiento": 26,
+        "jugador": 34,
+        "presente": false,
+        "observaciones": "Yes event scene short doctor. Fight should campaign chance view.\nShe financial size create energy indicate. Eat civil police. Method participant leader everything.\nSpend decide line though."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 89,
+    "fields": {
+        "entrenamiento": 29,
+        "jugador": 28,
+        "presente": false,
+        "observaciones": "Next appear anyone no technology. Despite toward inside raise.\nPerformance improve system group style. Worker set produce center model budget. Yet treatment talk similar agency."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 90,
+    "fields": {
+        "entrenamiento": 26,
+        "jugador": 30,
+        "presente": false,
+        "observaciones": "Wait senior husband blue majority.\nThat trouble as check idea. Her main pull value. Increase many international life mother lawyer.\nTv kind bit run arm. Continue again boy minute."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 91,
+    "fields": {
+        "entrenamiento": 29,
+        "jugador": 26,
+        "presente": true,
+        "observaciones": "Other trouble including skin her opportunity hair. Finally or nice office."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 92,
+    "fields": {
+        "entrenamiento": 45,
+        "jugador": 43,
+        "presente": true,
+        "observaciones": "Pull listen control. Think certain benefit few. Decision position physical easy dog station.\nNetwork worker type probably. Relationship floor contain high determine."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 93,
+    "fields": {
+        "entrenamiento": 42,
+        "jugador": 44,
+        "presente": true,
+        "observaciones": "Mr brother writer claim. His study yet far. Take else agent edge my.\nCell available window yourself. Themselves bag management outside go finish event."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 94,
+    "fields": {
+        "entrenamiento": 41,
+        "jugador": 41,
+        "presente": true,
+        "observaciones": "Machine nice will according break question. Page accept everyone realize trouble hear road."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 95,
+    "fields": {
+        "entrenamiento": 40,
+        "jugador": 43,
+        "presente": true,
+        "observaciones": "Order include treat sister edge. Under college fear center.\nHe tonight little organization. Foreign interesting bed trial new bill."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 96,
+    "fields": {
+        "entrenamiento": 43,
+        "jugador": 42,
+        "presente": true,
+        "observaciones": "Room space song rock. Political community almost example. Happy truth test cultural nice teacher like.\nHere like strong food. Clear buy leader."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 97,
+    "fields": {
+        "entrenamiento": 39,
+        "jugador": 41,
+        "presente": false,
+        "observaciones": "Environment behavior news drive and. Risk detail upon.\nOpen live possible report order develop form. Born attention example specific."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 98,
+    "fields": {
+        "entrenamiento": 36,
+        "jugador": 45,
+        "presente": false,
+        "observaciones": "Foot professor choose most another low. Each beyond arrive continue have child probably.\nPretty ask contain until nation claim choose production. According decade year about night. Although miss set."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 99,
+    "fields": {
+        "entrenamiento": 42,
+        "jugador": 45,
+        "presente": false,
+        "observaciones": "Bank benefit benefit thus. Number give difficult either class single.\nHair hundred site partner water generation option owner. Power candidate high long. Ground court close market."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 100,
+    "fields": {
+        "entrenamiento": 43,
+        "jugador": 42,
+        "presente": true,
+        "observaciones": "Minute door say. Including recognize sit enter child. Service probably him notice must board put.\nSkin place sing could. Himself single open reflect citizen."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 101,
+    "fields": {
+        "entrenamiento": 37,
+        "jugador": 36,
+        "presente": false,
+        "observaciones": "Visit during leader. Teacher blood some later.\nView high might health job. Certain everything still lawyer."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 102,
+    "fields": {
+        "entrenamiento": 46,
+        "jugador": 54,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 103,
+    "fields": {
+        "entrenamiento": 46,
+        "jugador": 50,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 104,
+    "fields": {
+        "entrenamiento": 47,
+        "jugador": 51,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 105,
+    "fields": {
+        "entrenamiento": 47,
+        "jugador": 55,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 106,
+    "fields": {
+        "entrenamiento": 47,
+        "jugador": 47,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 107,
+    "fields": {
+        "entrenamiento": 48,
+        "jugador": 54,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 108,
+    "fields": {
+        "entrenamiento": 48,
+        "jugador": 50,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 109,
+    "fields": {
+        "entrenamiento": 49,
+        "jugador": 46,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 110,
+    "fields": {
+        "entrenamiento": 50,
+        "jugador": 46,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 111,
+    "fields": {
+        "entrenamiento": 51,
+        "jugador": 48,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 112,
+    "fields": {
+        "entrenamiento": 52,
+        "jugador": 55,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 113,
+    "fields": {
+        "entrenamiento": 52,
+        "jugador": 49,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 114,
+    "fields": {
+        "entrenamiento": 53,
+        "jugador": 48,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 115,
+    "fields": {
+        "entrenamiento": 53,
+        "jugador": 49,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 116,
+    "fields": {
+        "entrenamiento": 54,
+        "jugador": 48,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 117,
+    "fields": {
+        "entrenamiento": 54,
+        "jugador": 49,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 118,
+    "fields": {
+        "entrenamiento": 55,
+        "jugador": 55,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 119,
+    "fields": {
+        "entrenamiento": 55,
+        "jugador": 53,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 120,
+    "fields": {
+        "entrenamiento": 55,
+        "jugador": 49,
+        "presente": true,
+        "observaciones": ""
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 121,
+    "fields": {
+        "entrenamiento": 54,
+        "jugador": 49,
+        "presente": true,
+        "observaciones": "Model outside kitchen interesting allow politics. Without television property ask parent popular office. Structure question official expect."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 122,
+    "fields": {
+        "entrenamiento": 46,
+        "jugador": 51,
+        "presente": true,
+        "observaciones": "Decision modern chance strategy Congress street always. Lead brother try small necessary different.\nBoard yes close. Account speech foreign throw recognize last establish."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 123,
+    "fields": {
+        "entrenamiento": 52,
+        "jugador": 46,
+        "presente": true,
+        "observaciones": "Still hope point article. Health until program image off know himself.\nChoose player make many. Myself future example some."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 124,
+    "fields": {
+        "entrenamiento": 55,
+        "jugador": 53,
+        "presente": true,
+        "observaciones": "Whole myself together former land. Subject challenge interest company attack.\nInclude box energy throughout play interesting reflect. Face school activity soldier heavy like."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 125,
+    "fields": {
+        "entrenamiento": 52,
+        "jugador": 50,
+        "presente": true,
+        "observaciones": "Position authority citizen toward. Book everybody main call first. Late laugh system college question day scene save. Traditional activity protect grow civil vote."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 126,
+    "fields": {
+        "entrenamiento": 48,
+        "jugador": 50,
+        "presente": true,
+        "observaciones": "Usually anyone run through. Floor effort money trade performance nature.\nHear child work red edge quite difficult kind. Outside TV for show past I quality. Institution occur strategy cultural drive."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 127,
+    "fields": {
+        "entrenamiento": 53,
+        "jugador": 53,
+        "presente": true,
+        "observaciones": "Movement boy become soldier design. They cut operation more west sing. Worker music tough pull record pattern pattern."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 128,
+    "fields": {
+        "entrenamiento": 52,
+        "jugador": 49,
+        "presente": true,
+        "observaciones": "Mr institution forward radio others day force. Turn speech think charge or generation. Kind sister success."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 129,
+    "fields": {
+        "entrenamiento": 50,
+        "jugador": 50,
+        "presente": true,
+        "observaciones": "But our night country situation. Short cause him participant get. Me movement ok rise let anyone."
+    }
+},
+{
+    "model": "club.asistencia",
+    "pk": 130,
+    "fields": {
+        "entrenamiento": 46,
+        "jugador": 49,
+        "presente": true,
+        "observaciones": "Stock wall serious. Agent physical win benefit fire cause thought always. Win work ready capital.\nCarry source story ask letter. Experience government anyone three in positive."
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 1,
+    "fields": {
+        "jugador": 4,
+        "partido": 1,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 2,
+    "fields": {
+        "jugador": 11,
+        "partido": 2,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 3,
+    "fields": {
+        "jugador": 11,
+        "partido": 3,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 4,
+    "fields": {
+        "jugador": 3,
+        "partido": 3,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 5,
+    "fields": {
+        "jugador": 12,
+        "partido": 4,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 6,
+    "fields": {
+        "jugador": 2,
+        "partido": 4,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 7,
+    "fields": {
+        "jugador": 2,
+        "partido": 5,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 8,
+    "fields": {
+        "jugador": 21,
+        "partido": 6,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 9,
+    "fields": {
+        "jugador": 24,
+        "partido": 6,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 10,
+    "fields": {
+        "jugador": 22,
+        "partido": 7,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 11,
+    "fields": {
+        "jugador": 21,
+        "partido": 7,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 12,
+    "fields": {
+        "jugador": 16,
+        "partido": 7,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 13,
+    "fields": {
+        "jugador": 21,
+        "partido": 8,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 14,
+    "fields": {
+        "jugador": 20,
+        "partido": 8,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 15,
+    "fields": {
+        "jugador": 23,
+        "partido": 8,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 16,
+    "fields": {
+        "jugador": 27,
+        "partido": 15,
+        "minutos_jugados": 52,
+        "titular": true,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 17,
+    "fields": {
+        "jugador": 30,
+        "partido": 12,
+        "minutos_jugados": 80,
+        "titular": true,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 18,
+    "fields": {
+        "jugador": 32,
+        "partido": 11,
+        "minutos_jugados": 62,
+        "titular": false,
+        "goles": 3
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 19,
+    "fields": {
+        "jugador": 27,
+        "partido": 11,
+        "minutos_jugados": 52,
+        "titular": true,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 20,
+    "fields": {
+        "jugador": 33,
+        "partido": 18,
+        "minutos_jugados": 37,
+        "titular": true,
+        "goles": 1
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 21,
+    "fields": {
+        "jugador": 26,
+        "partido": 10,
+        "minutos_jugados": 81,
+        "titular": false,
+        "goles": 1
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 22,
+    "fields": {
+        "jugador": 33,
+        "partido": 11,
+        "minutos_jugados": 20,
+        "titular": false,
+        "goles": 2
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 23,
+    "fields": {
+        "jugador": 35,
+        "partido": 18,
+        "minutos_jugados": 15,
+        "titular": true,
+        "goles": 2
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 24,
+    "fields": {
+        "jugador": 35,
+        "partido": 12,
+        "minutos_jugados": 60,
+        "titular": true,
+        "goles": 3
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 25,
+    "fields": {
+        "jugador": 33,
+        "partido": 11,
+        "minutos_jugados": 47,
+        "titular": true,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 26,
+    "fields": {
+        "jugador": 36,
+        "partido": 24,
+        "minutos_jugados": 26,
+        "titular": true,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 27,
+    "fields": {
+        "jugador": 44,
+        "partido": 19,
+        "minutos_jugados": 6,
+        "titular": false,
+        "goles": 2
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 28,
+    "fields": {
+        "jugador": 44,
+        "partido": 25,
+        "minutos_jugados": 36,
+        "titular": false,
+        "goles": 1
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 29,
+    "fields": {
+        "jugador": 37,
+        "partido": 24,
+        "minutos_jugados": 81,
+        "titular": true,
+        "goles": 3
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 30,
+    "fields": {
+        "jugador": 41,
+        "partido": 22,
+        "minutos_jugados": 32,
+        "titular": true,
+        "goles": 3
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 31,
+    "fields": {
+        "jugador": 39,
+        "partido": 23,
+        "minutos_jugados": 29,
+        "titular": true,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 32,
+    "fields": {
+        "jugador": 37,
+        "partido": 24,
+        "minutos_jugados": 25,
+        "titular": false,
+        "goles": 3
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 33,
+    "fields": {
+        "jugador": 36,
+        "partido": 27,
+        "minutos_jugados": 10,
+        "titular": true,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 34,
+    "fields": {
+        "jugador": 36,
+        "partido": 20,
+        "minutos_jugados": 87,
+        "titular": false,
+        "goles": 2
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 35,
+    "fields": {
+        "jugador": 38,
+        "partido": 27,
+        "minutos_jugados": 46,
+        "titular": true,
+        "goles": 1
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 36,
+    "fields": {
+        "jugador": 48,
+        "partido": 29,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 37,
+    "fields": {
+        "jugador": 50,
+        "partido": 30,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 38,
+    "fields": {
+        "jugador": 49,
+        "partido": 30,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 39,
+    "fields": {
+        "jugador": 55,
+        "partido": 31,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 40,
+    "fields": {
+        "jugador": 50,
+        "partido": 32,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 41,
+    "fields": {
+        "jugador": 55,
+        "partido": 33,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 42,
+    "fields": {
+        "jugador": 54,
+        "partido": 33,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 43,
+    "fields": {
+        "jugador": 52,
+        "partido": 34,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 44,
+    "fields": {
+        "jugador": 53,
+        "partido": 35,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 45,
+    "fields": {
+        "jugador": 46,
+        "partido": 35,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 46,
+    "fields": {
+        "jugador": 49,
+        "partido": 36,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 47,
+    "fields": {
+        "jugador": 54,
+        "partido": 36,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 48,
+    "fields": {
+        "jugador": 50,
+        "partido": 37,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 49,
+    "fields": {
+        "jugador": 51,
+        "partido": 37,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 50,
+    "fields": {
+        "jugador": 55,
+        "partido": 38,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 51,
+    "fields": {
+        "jugador": 53,
+        "partido": 38,
+        "minutos_jugados": 0,
+        "titular": false,
+        "goles": 0
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 52,
+    "fields": {
+        "jugador": 48,
+        "partido": 30,
+        "minutos_jugados": 20872,
+        "titular": false,
+        "goles": 4826
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 53,
+    "fields": {
+        "jugador": 52,
+        "partido": 31,
+        "minutos_jugados": 26559,
+        "titular": false,
+        "goles": 13150
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 54,
+    "fields": {
+        "jugador": 51,
+        "partido": 30,
+        "minutos_jugados": 2934,
+        "titular": true,
+        "goles": 17923
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 55,
+    "fields": {
+        "jugador": 46,
+        "partido": 30,
+        "minutos_jugados": 30888,
+        "titular": true,
+        "goles": -14866
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 56,
+    "fields": {
+        "jugador": 55,
+        "partido": 32,
+        "minutos_jugados": -19666,
+        "titular": true,
+        "goles": 22505
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 57,
+    "fields": {
+        "jugador": 55,
+        "partido": 35,
+        "minutos_jugados": 1449,
+        "titular": false,
+        "goles": 19281
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 58,
+    "fields": {
+        "jugador": 54,
+        "partido": 34,
+        "minutos_jugados": -24391,
+        "titular": true,
+        "goles": -20786
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 59,
+    "fields": {
+        "jugador": 46,
+        "partido": 29,
+        "minutos_jugados": 21614,
+        "titular": false,
+        "goles": 3342
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 60,
+    "fields": {
+        "jugador": 52,
+        "partido": 34,
+        "minutos_jugados": 23609,
+        "titular": true,
+        "goles": 11481
+    }
+},
+{
+    "model": "club.participacion",
+    "pk": 61,
+    "fields": {
+        "jugador": 48,
+        "partido": 35,
+        "minutos_jugados": -3120,
+        "titular": false,
+        "goles": 4168
+    }
+}
+]
