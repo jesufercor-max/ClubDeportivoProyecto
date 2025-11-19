@@ -62,7 +62,7 @@ class Jugador (models.Model):
 
 class Entrenamiento (models.Model):
     horario_entrenamiento = models.DateTimeField(default=timezone.now)
-    duracion_minutos = models.PositiveIntegerField(default=60)
+    duracion_minutos = models.IntegerField(default=60)
     
     # Relaciones
     # Categoria que entrena ese dia a esa hora (ManyToOne)
@@ -102,8 +102,8 @@ class Partido (models.Model):
     equipo_visitante = models.CharField(max_length=100)
     fecha = models.DateTimeField(default=timezone.now)
     lugar = models.CharField(max_length=150)
-    goles_local = models.PositiveIntegerField(default=0)
-    goles_visitante = models.PositiveIntegerField(default=0)
+    goles_local = models.IntegerField(default=0)
+    goles_visitante = models.IntegerField(default=0)
     
     # Relaciones
     # Jugadores del club que jugaron el partido (ManyToMany)
@@ -114,9 +114,9 @@ class Partido (models.Model):
 # -----------------------
 
 class EstadisticasJugador (models.Model):
-    goles = models.PositiveIntegerField(default=0)
-    asistencias = models.PositiveIntegerField(default=0)
-    minutos_jugados = models.PositiveIntegerField(default=0)
+    goles = models.IntegerField(default=0)
+    asistencias = models.IntegerField(default=0)
+    minutos_jugados = models.IntegerField(default=0)
 
     # Relaciones
     # Jugador para sus caracteristicas (OneToOne)
