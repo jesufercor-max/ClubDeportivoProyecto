@@ -1,7 +1,7 @@
 # Gestor de Club Deportivo
 
 Proyecto Django para la gestión de un club deportivo.  
-Permitirá administrar jugadores, entrenadores, equipos, competiciones y otros elementos del club.
+Permitirá administrar jugadores, entrenadores, pagos, partidos y otros elementos del club.
 
 ---
 
