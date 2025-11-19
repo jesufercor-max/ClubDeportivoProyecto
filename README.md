@@ -134,7 +134,7 @@ A continuación se detallan los modelos definidos, su propósito y las relacione
 
 A continuación se muestra el diagrama de entidad-relación que representa la estructura y las relaciones principales del club deportivo.
 
-![Diagrama de Entidad-Relación](ClubDeportivoProyecto/club/DiagramaER/DiagramaERClubDeprotivo.png)
+![Diagrama de Entidad-Relación](club/DiagramaER/DiagramaERClubDeprotivo.png)
 
 El diagrama refleja cómo se vinculan entidades como jugadores, entrenadores, categorías, entrenamientos, partidos, pagos y estadísticas dentro del sistema de gestión del club. Puedes consultar los detalles sobre el significado de cada relación en las secciones anteriores de este README.
 
