@@ -17,9 +17,9 @@ class Categoria (models.Model):
         ('JU', 'Juvenil'),
     ]
 
-    tipos = model.CharField(
-        max_lenght = 3,
-        choises = CATEGORIAS,
+    tipos = models.CharField(
+        max_length = 3,
+        choices = CATEGORIAS,
         default = "AL",
     )
     descripcion = models.TextField(blank=True)
@@ -31,8 +31,8 @@ class Categoria (models.Model):
 # -----------------------
 
 class Entrenador (models.Model):
-    nombre = models.CharField(max_lenght = 100)
-    salario = models.FloatField(default = 400.50, db_cloumn = "salario_entrenador")
+    nombre = models.CharField(max_length = 100)
+    salario = models.FloatField(default = 400.50, db_column = "salario_entrenador")
     fecha_contratacion = models.DateField(default=timezone.now)
     activo = models.BooleanField(default=True)
     
@@ -45,7 +45,7 @@ class Entrenador (models.Model):
 # -----------------------
 
 class Jugador (models.Model):
-    nombre = models.CharField (max_lenght = 100)
+    nombre = models.CharField (max_length = 100)
     dorsal = models.IntegerField (null=True)
     fecha_nacimiento = models.DateField()
 
@@ -71,7 +71,7 @@ class Entrenamiento (models.Model):
     # Entrenador que trabaja ese dia a esa hora (ManyToOne)
     entrenador = models.ForeignKey(Entrenador, on_delete=models.SET_NULL, null=True)
 
-    # Jugadores que entrenan ese dia a esa hora (ManyToMany)
+    # Jugadores que entrenan ese dia a esa hora (ManyToMany) (Tabla intermedia para ver la asistencia de los Jugadores a los entrenamientos)
     jugadores = models.ManyToManyField(Jugador, through='Asistencia')
 
 # -----------------------
@@ -80,18 +80,18 @@ class Entrenamiento (models.Model):
 
 class Lesion (models.Model):
     tipo = models.CharField(max_length=100)
-    fecha = models.DateTimeField(default=null)
+    fecha = models.DateTimeField(default=None)
     descripcion = models.TextField(max_length=250)
 
     # Relaciones
-    # En que entrenamiento ocurrió (coge el horario del entrenamiento y la id del mismo)
+    # En que entrenamiento ocurrió (coge el horario del entrenamiento y la id del mismo) (ManyToOne)
     entrenamiento = models.ForeignKey(Entrenamiento, on_delete=models.CASCADE)
 
-    # Jugador que se lesiono (One to One)
+    # Jugador que se lesiono (One to One) 
     jugador = models.OneToOneField(Jugador, on_delete=models.CASCADE)
     
-    # Nombre del entrenador que estaba en ese entrenamiento
-    entrenador = models.ForeignKey(Entrenador)
+    # Nombre del entrenador que estaba en ese entrenamiento (ManyToOne)
+    entrenador = models.ForeignKey(Entrenador, on_delete=models.CASCADE)
 
 # -----------------------
 # MODELO PARTIDO
@@ -106,7 +106,7 @@ class Partido (models.Model):
     goles_visitante = models.PositiveIntegerField(default=0)
     
     # Relaciones
-    # Jugadores del club que jugaron el partido
+    # Jugadores del club que jugaron el partido (ManyToMany)
     jugadores = models.ManyToManyField(Jugador, through='Participacion')
 
 # -----------------------
@@ -119,10 +119,10 @@ class EstadisticasJugador (models.Model):
     minutos_jugados = models.PositiveIntegerField(default=0)
 
     # Relaciones
-    # Jugador para sus caracteristicas
+    # Jugador para sus caracteristicas (OneToOne)
     jugador = models.OneToOneField(Jugador, on_delete=models.CASCADE)
 
-    # Partido donde se consiguio
+    # Partido donde se consiguio (ManyToOne)
     partido = models.ForeignKey(Partido, on_delete=models.CASCADE)
 
 # -----------------------
@@ -133,13 +133,13 @@ class Plantilla (models.Model):
     temporada = models.CharField(max_length=20)
     
     # Relaciones
-    # Categoria a la que pertenece
+    # Categoria a la que pertenece (ManyToOne)
     categoria = models.ForeignKey(Categoria, on_delete=models.CASCADE)
 
-    # Jugadores de la plantilla
+    # Jugadores de la plantilla (ManyToMany)
     jugadores = models.ManyToManyField(Jugador)
 
-    # Entrenador que entrena a esa plantilla
+    # Entrenador que entrena a esa plantilla (ManyToOne)
     entrenador = models.ForeignKey(Entrenador, on_delete=models.SET_NULL, null=True)
 
 # -----------------------
@@ -153,7 +153,7 @@ class Pago (models.Model):
     fecha_pago = models.DateTimeField(default=timezone.now)
 
     # Relaciones
-    # Jugador que paga el monto
+    # Jugador que paga el monto (ManyToOne)
     jugador = models.ForeignKey(Jugador, on_delete=models.CASCADE)
 
 # -----------------------
@@ -161,12 +161,18 @@ class Pago (models.Model):
 # -----------------------
 
 class Asistencia(models.Model):
+    entrenamiento = models.ForeignKey(Entrenamiento, on_delete=models.CASCADE)
+    jugador = models.ForeignKey(Jugador, on_delete=models.CASCADE)
     presente = models.BooleanField(default=True)
     observaciones = models.TextField(blank=True)
+  
+# -----------------------
+# MODELO INTERMEDIO: Participacion (para ManyToMany entre Partido y Jugador)
+# -----------------------
 
-    # Relaciones
-    # Entrenamiento al que el jugador asistio que asistió
-    entrenamiento = models.ForeignKey(Entrenamiento, on_delete=models.CASCADE)
-    
-    # Jugador que asistió
+class Participacion(models.Model):
     jugador = models.ForeignKey(Jugador, on_delete=models.CASCADE)
+    partido = models.ForeignKey(Partido, on_delete=models.CASCADE)
+    minutos_jugados = models.IntegerField(default=0)
+    titular = models.BooleanField(default=False)
+    goles = models.IntegerField(default=0)
