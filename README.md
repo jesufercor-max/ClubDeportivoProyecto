@@ -18,37 +18,40 @@ En esta rama se ha creado la funcionalidad para mostrar todas las categorías al
 ---
 
 ## Template: categorias.html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Categorías</title>
-</head>
-<body>
-
-<h1>Categorías</h1>
-
 ```python
-  <table border="1" cellpadding="6">
-      <thead>
-          <tr>
-              <th>Tipo</th>
-              <th>Descripción</th>
-              <th>Edad mínima</th>
-              <th>Edad máxima</th>
-          </tr>
-      </thead>
+<!DOCTYPE html>
+  <html>
+    <head>
+        <title>Categorías</title>
+    </head>
+    <body>
 
-      <tbody>
-      {% for categorias in mostrar_categorias %}
-          <tr>
-              <td>{{ categorias.tipos }}</td>
-              <td>{{ categorias.descripcion }}</td>
-              <td>{{ categorias.edad_min }}</td>
-              <td>{{ categorias.edad_max }}</td>
-          </tr>
-      {% endfor %}
-      </tbody>
-  </table>
+      <h1>Categorías</h1>
+
+      <table border="1" cellpadding="6">
+          <thead>
+              <tr>
+                  <th>Tipo</th>
+                  <th>Descripción</th>
+                  <th>Edad mínima</th>
+                  <th>Edad máxima</th>
+              </tr>
+          </thead>
+
+          <tbody>
+          {% for categorias in mostrar_categorias %}
+              <tr>
+                  <td>{{ categorias.tipos }}</td>
+                  <td>{{ categorias.descripcion }}</td>
+                  <td>{{ categorias.edad_min }}</td>
+                  <td>{{ categorias.edad_max }}</td>
+              </tr>
+          {% endfor %}
+          </tbody>
+      </table>
+
+    </body>
+  </html>
 
 ```
 ---
@@ -59,6 +62,7 @@ path('categorias/', views.mostrar_categorias, name="mostrar_categorias"),
 ### Enlace desde el index
 ```python
 <li><a href="{% url 'mostrar_categorias' %}">Muestra las categorias</a></li>
+
 ```
 ---
 
