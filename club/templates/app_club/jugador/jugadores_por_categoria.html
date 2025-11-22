@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Jugadores</title>
+  </head>
+  <body>
+    <h1>Jugadores</h1>
+
+    <table border="1" cellpadding="6">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Dorsal</th>
+          <th>Fecha de nacimiento</th>
+          <th>Categoria</th>
+          <th>Descripción</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        {% for jugadores in mostrar_jugadores %}
+        <tr>
+          <td>{{ jugadores.nombre }}</td>
+          <td>{{ jugadores.dorsal }}</td>
+          <td>{{ jugadores.fecha_nacimiento }}</td>
+          <td>{{ jugadores.categoria.tipos }}</td>
+          <td>{{ jugadores.categoria.descripcion }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>

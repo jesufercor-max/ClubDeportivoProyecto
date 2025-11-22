@@ -1,11 +1,19 @@
 <!DOCTYPE html>
 <html>
-   <head></head>
-   <body>
-   <h1>Club Deportivo</h1>   
-   <h2>Listado de enlaces</h2>
-   <ul>
-      <li><a href="{% url 'mostrar_categorias' %}">Muestra las categorias</a></li>
-   </ul>
-   </body>
+  <head></head>
+  <body>
+    <h1>Club Deportivo</h1>
+    <h2>Listado de enlaces</h2>
+    <ul>
+      <li>
+        <a href="{% url 'mostrar_categorias' %}">Muestra las categorias</a>
+      </li>
+      <li>
+        <a href="{% url 'mostrar_jugadores' 'AL' 'magicos' %}">
+          Muestra los jugadores que pertenecen a la Categoria Alevin, y cuya
+          descripcion contiene "magicos"
+        </a>
+      </li>
+    </ul>
+  </body>
 </html>

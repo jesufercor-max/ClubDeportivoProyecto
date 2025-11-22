@@ -1,79 +1,100 @@
-# Rama: Urls_1
+# Rama: Urls_2
+
 ## Objetivo
 
-En esta rama se ha creado la funcionalidad para mostrar todas las categorías almacenadas en la base de datos utilizando Django.
+En esta rama se ha creado la funcionalidad para mostrar todos los jugadores pertenecientes
+a una categoría concreta y cuya descripcion contenga "magicos" almacenadas en la base de datos utilizando Django.
+Utilizando filtros con AND sobre una relación ManyToOne (Jugador → Categoria).
 
 ---
 
 ## View utilizada
+
 ### Vista para que muestre las categorias con todos sus atributos
+
 ```python
-  def mostrar_categorias(request):
-      categorias = Categoria.objects.all()
+  def mostrar_jugadores(request, categoria_tipo, palabra_descripcion):
+      jugadores = Jugador.objects.select_related("categoria").filter(categoria__tipos=categoria_tipo).filter(categoria__descripcion__icontains=palabra_descripcion)
       '''
-      categorias = (Categoria.objects.raw("SELECT * FROM Categorias"))
+      jugadores = (Jugador.objects.raw("SELECT * FROM club_Jugador j "
+                                  + " INNER JOIN club_Categoria c ON j. categoria_id = c.id "
+                                  + " WHERE c.tipos = 'AL' "
+                                  + " AND c.descripcion LIKE '%magicos%' "))
       '''
-      return render(request, 'app_club/categorias.html', {"mostrar_categorias":categorias})
+    return render (request, 'app_club/jugador/jugadores_por_categoria.html', {"mostrar_jugadores":jugadores})
 ```
+
 ---
 
-## Template: categorias.html
+## Template: jugadores_por_categoria.html
+
 ```python
 <!DOCTYPE html>
-  <html>
-    <head>
-        <title>Categorías</title>
-    </head>
-    <body>
+<html>
+  <head>
+    <title>Jugadores</title>
+  </head>
+  <body>
+    <h1>Jugadores</h1>
 
-      <h1>Categorías</h1>
+    <table border="1" cellpadding="6">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Dorsal</th>
+          <th>Fecha de nacimiento</th>
+          <th>Categoria</th>
+          <th>Descripción</th>
+        </tr>
+      </thead>
 
-      <table border="1" cellpadding="6">
-          <thead>
-              <tr>
-                  <th>Tipo</th>
-                  <th>Descripción</th>
-                  <th>Edad mínima</th>
-                  <th>Edad máxima</th>
-              </tr>
-          </thead>
-
-          <tbody>
-          {% for categorias in mostrar_categorias %}
-              <tr>
-                  <td>{{ categorias.tipos }}</td>
-                  <td>{{ categorias.descripcion }}</td>
-                  <td>{{ categorias.edad_min }}</td>
-                  <td>{{ categorias.edad_max }}</td>
-              </tr>
-          {% endfor %}
-          </tbody>
-      </table>
-
-    </body>
-  </html>
+      <tbody>
+        {% for jugadores in mostrar_jugadores %}
+        <tr>
+          <td>{{ jugadores.nombre }}</td>
+          <td>{{ jugadores.dorsal }}</td>
+          <td>{{ jugadores.fecha_nacimiento }}</td>
+          <td>{{ jugadores.categoria.tipos }}</td>
+          <td>{{ jugadores.categoria.descripcion }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>
 
 ```
+
 ---
 
 ## URL configurada
-path('categorias/', views.mostrar_categorias, name="mostrar_categorias"),
+
+path('jugadores/<str:categoria_tipo>/<str:palabra_descripcion>/', views.mostrar_jugadores, name="mostrar_jugadores"),
 
 ### Enlace desde el index
+
 ```python
-<li><a href="{% url 'mostrar_categorias' %}">Muestra las categorias</a></li>
+ <li>
+      <a href="{% url 'mostrar_jugadores' 'AL' 'magicos' %}">
+        Muestra los jugadores que pertenecen a la Categoria Alevin, y cuya
+        descripcion contiene "magicos"
+      </a>
+  </li>
 
 ```
+
 ---
 
 ## Resultado
 
-Al acceder al enlace desde la página principal, se muestra una tabla con todas las categorías registradas en la base de datos, incluyendo:
+Al acceder al enlace desde la página principal, se muestra una tabla con todas las jugadores registradas en la base de datos, incluyendo:
 
-- **Tipo**
+- **Nombre**
+
+- **Dorsal**
+
+- **Feha de nacimiento**
+
+- **Categoría**
 
 - **Descripción**
-
-- **Edad mínima**
-
-- **Edad máxima**
