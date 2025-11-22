@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Entrenadores</title>
+  </head>
+  <body>
+    <h1>Entrenadores</h1>
+
+    <table border="1" cellpadding="6">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Salario</th>
+          <th>Fecha de contratación</th>
+          <th>Activo</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        {% for entrenadores in mostrar_entrenadores %}
+        <tr>
+          <td>{{ entrenadores.nombre }}</td>
+          <td>{{ entrenadores.salario }}</td>
+          <td>{{ entrenadores.fecha_contratacion }}</td>
+          <td>{{ entrenadores.activo }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>

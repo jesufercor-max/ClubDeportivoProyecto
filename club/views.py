@@ -1,5 +1,6 @@
 from django.shortcuts import render
-from .models import Categoria, Jugador
+from .models import Categoria, Jugador, Entrenador
+from django.db.models import Q
 
 # Create your views here.
 
@@ -28,4 +29,18 @@ def mostrar_jugadores(request, categoria_tipo, palabra_descripcion):
                                 + " AND c.descripcion LIKE '%magicos%' "))
     '''
     return render (request, 'app_club/jugador/jugadores_por_categoria.html', {"mostrar_jugadores":jugadores})
+
+# Vista que busca entrenadores utilizando un filtro OR con Q objects
+# Realiza una búsqueda de entrenadores combinando varias condiciones mediante OR, como coincidencia en el nombre o años de experiencia.
+# Demuestra el uso de filtros OR en QuerySet.
+def mostrar_entrenadores(request, nombre, anio):
+    entrenadores = Entrenador.objects.all().filter(Q(nombre=nombre) | Q(fecha_contratacion__year=anio))
+    '''
+    entrenadores = (Entrenador.objects.raw("SELECT * FROM club_entrenador e "
+                                    + " WHERE e.nombre = 'Eduardo' "
+                                    + " OR EXTRACT(YEAR FROM e.fecha_contratacion) = 2000 "))
+    '''
+    return render(request, 'app_club/entrenador/entrenadores.html', {"mostrar_entrenadores":entrenadores})
+    
+
 
