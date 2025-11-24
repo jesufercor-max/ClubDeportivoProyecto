@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Entrenamientos</title>
+  </head>
+  <body>
+    <h1>Entrenamientos</h1>
+
+    <table border="1" cellpadding="6">
+      <thead>
+        <tr>
+          <th>Horario</th>
+          <th>Duración (minutos)</th>
+          <th>Categoria</th>
+          <th>Entrenador</th>
+          <th>Jugadores asistentes</th>
+          <th>Observaciones</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        {% for entrenamiento in mostrar_entrenamientos %}
+        <tr>
+          <td>{{ entrenamiento.horario_entrenamiento }}</td>
+          <td>{{ entrenamiento.duracion_minutos }}</td>
+          <td>{{ entrenamiento.categoria.tipos }}</td>
+          <td>{{ entrenamiento.entrenador.nombre }}</td>
+          <td>
+            <ul>
+              {% for jugador in entrenamiento.jugadores.all %}
+              <li>{{ jugador.nombre }} (Dorsal: {{ jugador.dorsal }})</li>
+              {% endfor %}
+            </ul>
+          </td>
+          <td>{{ jugador.asistencia.observaciones }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>

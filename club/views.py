@@ -1,5 +1,5 @@
 from django.shortcuts import render
-from .models import Categoria, Jugador, Entrenador
+from .models import Categoria, Jugador, Entrenador, Entrenamiento
 from django.db.models import Q
 
 # Create your views here.
@@ -42,5 +42,11 @@ def mostrar_entrenadores(request, nombre, anio):
     '''
     return render(request, 'app_club/entrenador/entrenadores.html', {"mostrar_entrenadores":entrenadores})
     
-
+# Vista que muestra entrenamientos con todos los jugadores que asisten
+# Muestra todos los entrenamientos y, usando la relación ManyToMany a través de Asistencia, 
+# obtiene los jugadores que participaron en cada entrenamiento. 
+# Optimiza la consulta usando prefetch_related.
+def mostrar_entrenamientos(request):
+    entrenamientos = Entrenamiento.objects.prefetch_related('jugadores')
+    return render(request, 'app_club/entrenamiento/mostrar_entrenamientos.html', {'mostrar_entrenamientos':entrenamientos})
 
