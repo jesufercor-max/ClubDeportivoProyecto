@@ -9,15 +9,13 @@
         <a href="{% url 'mostrar_categorias' %}">Muestra las categorias</a>
       </li>
       <li>
-        <a href="{% url 'mostrar_jugadores' 'AL' 'magicos' %}">
-          Muestra los jugadores que pertenecen a la Categoria Alevin, y cuya
-          descripcion contiene "magicos"
-        </a>
+        <a href="{% url 'mostrar_jugadores' 'AL' 'magicos' %}">Muestra los jugadores que pertenecen a la Categoria Alevin, y cuya descripcion contiene "magicos"</a>
       </li>
       <li>
-        <a href="{% url 'mostrar_entrenadores' 'Eduardo' 2000 %}"
-          >Muestra los entrenadores con filtro OR</a
-        >
+        <a href="{% url 'mostrar_entrenadores' 'Eduardo' 2000 %}">Muestra los entrenadores con filtro OR</a>
+      </li>
+      <li>
+        <a href="{% url 'mostrar_estadisticas' %}">Muestra los entrenadores con filtro OR</a>
       </li>
     </ul>
   </body>

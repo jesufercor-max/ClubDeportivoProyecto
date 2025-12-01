@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Estadisticas Jugadores</title>
+  </head>
+  <body>
+    <h1>Estadisticas Jugadores</h1>
+
+    <table border="1" cellpadding="6">
+      <thead>
+        <tr>
+          <th>Nombre</th>
+          <th>Total Goles</th>
+          <th>Total Asistencias</th>
+          <th>Total Minutos jugados</th>
+          <th>Goles/minutos</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        {% for estadisticas in mostrar_estadisticas %}
+        <tr>
+            <td>{{ estadisticas.jugador.nombre }}</td>
+            <td>{{ estadisticas.goles }}</td>
+            <td>{{ estadisticas.asistencias }}</td>
+            <td>{{ estadisticas.minutos_jugados }}</td>
+            <td>{{ estadisticas.media }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </body>
+</html>

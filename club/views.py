@@ -1,6 +1,6 @@
 from django.shortcuts import render
-from .models import Categoria, Jugador, Entrenador
-from django.db.models import Q
+from .models import Categoria, Jugador, Entrenador, EstadisticasJugador
+from django.db.models import Q, Sum, Avg
 
 # Create your views here.
 
@@ -42,5 +42,15 @@ def mostrar_entrenadores(request, nombre, anio):
     '''
     return render(request, 'app_club/entrenador/entrenadores.html', {"mostrar_entrenadores":entrenadores})
     
+# Vista que calcula estadísticas globales de un jugador usando aggregate()
+# Obtiene todas las estadísticas asociadas a un jugador concreto
+# y calcula el total de goles, asistencias y minutos jugados.
+# Utiliza la función aggregate() para obtener sumas de forma optimizada
+# sobre la relación ManyToOne entre EstadísticasJugador → Partido
+# y la relación OneToOne entre Jugador → EstadísticasJugador.
+def mostrar_estadisticas (request):
+    estadisticas = EstadisticasJugador.objects.select_related("jugador").aggregate(goles_totales=Sum('goles'), asistencias_totales=Sum('asistencias'), minutos_totales=Sum('minutos_jugados'))
+    media = estadisticas["goles_totales"] / estadisticas["minutos_totales"]
+    return render (request, 'app_club/EstadisticaJugador/estadisticas.html', {"mostrar_estadisticas ":estadisticas, "media":media})
 
 
