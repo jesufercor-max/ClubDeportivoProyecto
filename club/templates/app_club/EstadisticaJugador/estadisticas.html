@@ -1,15 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Estadisticas Jugadores</title>
+    <title>Estadisticas del club</title>
   </head>
   <body>
-    <h1>Estadisticas Jugadores</h1>
+    <h1>Estadisticas del club</h1>
 
     <table border="1" cellpadding="6">
       <thead>
         <tr>
-          <th>Nombre</th>
           <th>Total Goles</th>
           <th>Total Asistencias</th>
           <th>Total Minutos jugados</th>
@@ -18,15 +17,12 @@
       </thead>
 
       <tbody>
-        {% for estadisticas in mostrar_estadisticas %}
         <tr>
-            <td>{{ estadisticas.jugador.nombre }}</td>
-            <td>{{ estadisticas.goles }}</td>
-            <td>{{ estadisticas.asistencias }}</td>
-            <td>{{ estadisticas.minutos_jugados }}</td>
-            <td>{{ estadisticas.media }}</td>
+            <td>{{ estadisticas.goles_totales }}</td>
+            <td>{{ estadisticas.asistencias_totales }}</td>
+            <td>{{ estadisticas.minutos_totales }}</td>
+            <td>{{ media }}</td>
         </tr>
-        {% endfor %}
       </tbody>
     </table>
   </body>

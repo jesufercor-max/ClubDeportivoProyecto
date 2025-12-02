@@ -42,15 +42,18 @@ def mostrar_entrenadores(request, nombre, anio):
     '''
     return render(request, 'app_club/entrenador/entrenadores.html', {"mostrar_entrenadores":entrenadores})
     
-# Vista que calcula estadísticas globales de un jugador usando aggregate()
-# Obtiene todas las estadísticas asociadas a un jugador concreto
+# Vista que calcula estadísticas globales del club usando aggregate()
 # y calcula el total de goles, asistencias y minutos jugados.
 # Utiliza la función aggregate() para obtener sumas de forma optimizada
-# sobre la relación ManyToOne entre EstadísticasJugador → Partido
-# y la relación OneToOne entre Jugador → EstadísticasJugador.
 def mostrar_estadisticas (request):
-    estadisticas = EstadisticasJugador.objects.select_related("jugador").aggregate(goles_totales=Sum('goles'), asistencias_totales=Sum('asistencias'), minutos_totales=Sum('minutos_jugados'))
+    estadisticas = EstadisticasJugador.objects.aggregate(goles_totales=Sum('goles'), asistencias_totales=Sum('asistencias'), minutos_totales=Sum('minutos_jugados'))
     media = estadisticas["goles_totales"] / estadisticas["minutos_totales"]
-    return render (request, 'app_club/EstadisticaJugador/estadisticas.html', {"mostrar_estadisticas ":estadisticas, "media":media})
-
+    '''
+    estadisticas = (EstadisticasJugador.objects.raw("SELECT SUM(goles) AS goles_totales, "
+                                            + " SUM(asistencias) AS asistencias_totales, "
+                                            + " SUM(minutos_jugados) AS minutos_totales, "
+                                            + " SUM(goles) / (SUM(minutos_jugados) AS media "
+                                            + " FROM estadisticasjugador; "))
+    '''
+    return render (request, 'app_club/EstadisticaJugador/estadisticas.html', {"estadisticas":estadisticas, "media":media})
 
